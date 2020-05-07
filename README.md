@@ -17,7 +17,7 @@ selenium             3.141.0
 instaloader          4.3.2
 
 ```
-
+* The Folder - "Data/Photos" only has photos for one IG user. Please download the rest using this [link] (https://drive.google.com/drive/folders/1CL2ddV72vtr8BGam2fmc0WAKow8onqn3?usp=sharing)
 
 ## Authors
 
