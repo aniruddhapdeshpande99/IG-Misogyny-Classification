@@ -1,0 +1,1036 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.3.2"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Photo by Ev\u2019Yan Whitney \u2022 she/they on November 29, 2019. Image may contain: one or more people and closeup",
+        "caption_is_edited": true,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/74372993_280157772940646_4866605042947987133_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=4MUSZtD02TEAX_ANtCj&oh=4e28e17bc9cd0765a97bf1c0205364c1&oe=5EDCE848"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/74372993_280157772940646_4866605042947987133_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=4MUSZtD02TEAX_ANtCj&oh=14669ed593d9207175a1e4c88819dd22&oe=5EDAD9C8"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/74372993_280157772940646_4866605042947987133_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=4MUSZtD02TEAX_ANtCj&oh=e53bb9148c09e87e129650cc0586e01e&oe=5EDAF2F1"
+            }
+        ],
+        "display_url": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/74372993_280157772940646_4866605042947987133_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=4MUSZtD02TEAX_ANtCj&oh=e53bb9148c09e87e129650cc0586e01e&oe=5EDAF2F1",
+        "edge_media_preview_comment": {
+            "count": 71,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1575965826,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17901059623394914",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1809082775",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72944697_3331616633574933_3942089286857261056_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=O4Dde1KPiMwAX8hsw63&oh=fed900103a438c347531b3da5085f834&oe=5EDC8383",
+                            "username": "owl_ethu"
+                        },
+                        "text": "@oshu_owl",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 3342,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "SALE HAS ENDED! - I am at peace with my sexuality. My sexuality and sensuality are mine and no one else\u2019s\u2014not just because they are mine to claim but because I have put in years of work, healing, and liberation to be able to claim them as mine. I am proud of my sexuality and how I\u2019ve cultivated a sense of autonomy + power within its expression.\n\nAnd if you\u2019re reading this, I want the same for you.\n\nStarting today, all of my sexual liberation + healing courses and guides are 40% off. Here\u2019s what they entail\u2014\n\nSexual Liberation 101 simple and gentle class to help you start your own personal sexual revolution\u2014with self-inquiry, inner reflection, and powerful questions to help you find sexual empowerment on your own terms.\n\n30 Days of Sensuality will reconnect you to your body and help you reclaim your sensuality with playful sensual practices, audio meditations, and journaling prompts\u2014one day at a time (I\u2019ll be guiding you the entire way).\n.\nThe Sexting Myself guidebook has everything you'll need to create a fun and liberating sensual selfie practice, one where you can affirm your sexual radiance with your own eyes. Includes poses and props you can use to enhance your selfies, affirmations to say to yourself as you practice, and a playlist to listen to as you play.\n\nIf you want to bring some liberation and healing to your sexuality before 2019 ends, this is for you.\n\nThe best part: 20% of all profits from this sale will go to @transformative_massage, a wellness center that that provides bodywork and self-care education to QTIPOC.\n-\n\u2728Buy one or buy them all at evyanwhitney.com/sale, or click the link in my bio.\u2728\n-\nBTW: The sale ends on Monday evening, so don\u2019t sleep on this!\n\nphoto: @extracelestial"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 71,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1575064647,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575064707,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17872986763509418",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "1356022",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/39929915_1674705372637998_9032701181406740480_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=BW9jGPIi9nMAX983eMG&oh=f76da05d5b1da86c61014f559925b0e6&oe=5EDA44B2",
+                                            "username": "tatummarie"
+                                        },
+                                        "text": "@tatummarie also expressing myself sensually. I know I don\u2019t use those words correctly because I sometimes use them interchangeably.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1575066248,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17851350487730672",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@tatummarie I feel this! for unlearning the old stories about your sexuality, Sexual Liberation 101 would be perfect for that. it\u2019s a class that features a 20+ minute lecture for me about how to change those old stories & instructions/tools/resources on how to create & embody new ones (& that point about the male gaze can definitely be addressed within that too). for connecting to your sensuality, 30 Days of Sensuality was designed for just that. it\u2019s a course that you do each day for four weeks to help you reconnect with your body & embody sensuality in a way that\u2019s authentic to you. I\u2019m guiding you every step of the way with audio meditations, journal prompts, & fun assignments you can do each day to gently & playfully connect to your senses. I highly recommend that for anyone who feels disconnected from their body/sensuality.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1575084980,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17862824155586658",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "1356022",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/39929915_1674705372637998_9032701181406740480_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=BW9jGPIi9nMAX983eMG&oh=f76da05d5b1da86c61014f559925b0e6&oe=5EDA44B2",
+                                            "username": "tatummarie"
+                                        },
+                                        "text": "@evyan.whitney thank you \ud83d\udc93",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17914754185370239",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1356022",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/39929915_1674705372637998_9032701181406740480_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=BW9jGPIi9nMAX983eMG&oh=f76da05d5b1da86c61014f559925b0e6&oe=5EDA44B2",
+                            "username": "tatummarie"
+                        },
+                        "text": "I grew up in a very religious home and was prohibited from taking sex ed classes. I\u2019ve done a lot of learning since then, but i have a lot of harmful stories inside me about sex and a lot of it prevents me from expressing myself sexually. I\u2019m also trying to figure out what I like vs. what the male gaze thinks I should like. Very confusing times.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575064813,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575087132,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17858439211623056",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@dowontheone I totally hear you, & want to acknowledge your desire for transformation. it sounds like you\u2019re ready & willing to begin to do this work of unblocking, & since you\u2019re interested in working with me one-on-one, that you\u2019d like something that goes deeper. for that, I\u2019d recommend 30 Days of Sensuality. I\u2019ve actually recommended to a few clients of mine start this course before we work together because sensuality & bodily connection is such foundational world within sexual liberation & healing. I think you would enjoy it & I also think it would be a great place to start before we explore private sessions. if you have any questions, don\u2019t hesitate to email me! evyan@evyanwhitney.com \ud83d\udc93",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17925611851347537",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "22092012",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/68876271_383365805712608_2140287718058360832_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=yQP9qAUgly0AX9qRrqK&oh=2e4b85b425f0b5df1bf412c71c4535ed&oe=5EDABA1B",
+                            "username": "dowontheone"
+                        },
+                        "text": "I want to dive deeper into the place of uncertainty and fear. I know this is a life long journey but I started recognizing some blockages (physical & mental) that stop me from surrendering, and when I do feel the struggles happening, I can\u2019t help but feel ashamed, upset and sad \ud83d\ude1e  I would really really love to work with you individually but I noticed on your website, it says next enrolment would be in spring 2020, so I\u2019m willing to try your courses while I wait! \ud83d\ude4f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575067487,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 3
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575068097,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "17941682734315119",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@briannewaite firstly, thank you for being so vulnerable in your comment to me. \ud83e\udde1 it sounds like before you can get physical/sensual with someone else, you might need to begin by finding safe space to be sensual with yourself, & to really define what sensuality looks like for you. solo practices are the best way to dive deep into what\u2019s blocking us within our partnered experiences, & for that I would recommend 30 Days of Sensuality to help you build a daily sensual practice that I\u2019ll be guiding you through every step of the way. there\u2019s audio meditations, journal prompts, & playful assignments that will gently get you to reconnect with your body outside of a sexual context. what i\u2019ve found is that when we do that sensual self-discovery outside of sex so much is brought to the surface to the extent that that information can be explored within a partnered situation. I would also recommend Sexual Liberation 101 to unpack the blockages that is coming up for you. & lastly, for fun, I think the Sexting Myself guidebook would be a great way for you to affirm your beauty & sexuality with your own eyes through sensual self-portraiture\u2014which is one of my favorite ways to reconnect with my body & softness when it seems to have gone dormant. I hope this is helpful! be easy on you. \u2728",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1575074588,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17856284191643261",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "10093844",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/13277560_1035314416552134_180862918_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ic0gOg81tb4AX9G6rCq&oh=4d33f8476d941c38d54d8c6bd16a8f6c&oe=5EDBBA4C",
+                                            "username": "briannewaite"
+                                        },
+                                        "text": "@evyan.whitney This is extremely helpful! Thank you. Vulnerability doesn\u2019t come easily for me so I\u2019ve had to learn to open myself up. It\u2019s a start to finding myself again after giving birth but I still need a lot of work. I appreciate you taking the time to answer me!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17854795762662688",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "10093844",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/13277560_1035314416552134_180862918_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ic0gOg81tb4AX9G6rCq&oh=4d33f8476d941c38d54d8c6bd16a8f6c&oe=5EDBBA4C",
+                            "username": "briannewaite"
+                        },
+                        "text": "Trying to navigate my sexuality after having children and trying to figure out where my lack of desire is coming from. Why do I cringe every time my husband says I\u2019m beautiful? Why do I flinch every time he touches me? How am I supposed to have a physical relationship with him when, at the end of the day, having someone touch me is the last thing I want? And why do I feel so guilty that his needs aren\u2019t being met when mine obviously aren\u2019t either because no idea what I want anymore. Okay that was more than one sentence. Sorry about that. \ud83d\ude43",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575068916,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575072109,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17856235729645743",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@co.lleen282 for you, I\u2019d recommend either 30 Days of Sensuality (to begin creating a practice of connecting to & bringing awareness to your body outside of your partnered relationship) or Sexual Liberation 101 (to narrow down what\u2019s blocking you & exciting you as you venture into being single). this is such an exciting time for you, & anything you can do right now to connect with yourself\u2014learn yourself, know yourself, focus on yourself\u2014would be great because I imagine that that awkwardness stems from not really knowing who you are without your partner. these courses will be great places to start!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18095098264102043",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "9037604226",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/82170516_2493306627595425_8633736206082899968_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=rSuAFD7i0bwAX-Hwc6P&oh=32c9b52d0c041a8115a0cdaf539724bd&oe=5EDDAB00",
+                            "username": "co.lleen282"
+                        },
+                        "text": "My partner of five years and I split about a two years again and I\u2019m still having a hard time finding myself as a queer person being single now. I love this body of mine but knowing what to do with myself as a single person is still kinda awkward at times.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575069269,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575071889,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18076455142159716",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@mar_bar75 hi! none of my courses specifically tackle non-monogamy. I mostly educate folks on how to connect with themselves & their bodies outside of trauma & fear, so my courses/guides are very self-centered (in the best way). I do have some episodes on my podcast regarding how me & my partner have been practicing non-monogamy in our relationship, you might check that out for resources & support. my podcast is called The Sexually Liberated Woman and the episode I\u2019m talking about is titled something like \u201cMy Polyamorous Marriage\u201d.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17859730522613295",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "44273367",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/17494843_1218841008213648_4045307598772109312_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=kxGC8VCqToMAX8HIoXR&oh=cbcb68583aaa1fdd9b9cf67f4dde94d7&oe=5EDA59BC",
+                            "username": "mar_bar75"
+                        },
+                        "text": "I am newly transitioning to a poly/consentul non-manogamy after nearly 2 decades with the same man. Whatcha got for me? \ud83d\udc97",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575069830,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575072241,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 3
+                                        },
+                                        "id": "17862805465581076",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@popster613 I would definitely recommend Sexual Liberation 101 to get to the mental part of the fear (which is so fear) and/or 30 Days of Sensuality to further unpack the bodily fear/tension. knowing that you\u2019ll be doing physical therapy makes me feel confident that practicing some gentle & simple mindfulness & embodiment practices will be a great addition to what you\u2019ll be doing there. \ud83d\udc93",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1575074939,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17867048281557238",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2997810724",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/69257219_968232336846992_2021654420625817600_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=dWxc36x5dQYAX99i-Ik&oh=348d650b1b2356d2d68b59918f8476cf&oe=5EDCB80C",
+                                            "username": "popster613"
+                                        },
+                                        "text": "@evyan.whitney thank you!!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17866574587527190",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2997810724",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/69257219_968232336846992_2021654420625817600_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=dWxc36x5dQYAX99i-Ik&oh=348d650b1b2356d2d68b59918f8476cf&oe=5EDCB80C",
+                            "username": "popster613"
+                        },
+                        "text": "Thank you so much for taking time to respond to all the comments- you are amazing! I recently was diagnosed with vaginismus and have realized that my fear of sex has now become a physical reaction my body is having through vaginismus. I will be doing physical therapy but what course would be best for working out of a fear of sex?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575072280,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17852652649714549",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "975544235",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72155673_1072456403090576_3954969082029146112_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=I7afEAw8B28AX8K8IXK&oh=8db9d84f1907bfba2b240c6ba139accd&oe=5EDA788E",
+                            "username": "shawna_leigh"
+                        },
+                        "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575072306,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17895035368424014",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "975544235",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72155673_1072456403090576_3954969082029146112_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=I7afEAw8B28AX8K8IXK&oh=8db9d84f1907bfba2b240c6ba139accd&oe=5EDA788E",
+                            "username": "shawna_leigh"
+                        },
+                        "text": "I\u2019m sharing my story in a dm but thank you for this\ud83c\udf39\ud83c\udf39",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575077610,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18115908445049989",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1827149003",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/73420158_734836606926654_3292706273404911616_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=LRsTLVXmtkIAX9d2qTX&oh=acf9cba43fa35a98eb02592a729199d0&oe=5EDBFD49",
+                            "username": "thesexwithyourmind"
+                        },
+                        "text": "\ud83d\ude4f\ud83c\udfff\ud83d\udc95\ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575083603,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575086916,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17861290132599162",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@ilana_cedar hi! 30 Days of Sensuality would be perfect for you. I designed it to help people reconnect to their bodies in gentle, simple ways. the Sexting Myself guidebook would also be a great thing to dive into; sensual self-portraiture has been huge for myself & my clients to help them remember their bodily autonomy & softness.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18116845318025197",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "8167469134",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/36136849_253944828746697_8678763071256133632_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=6gwLUTBoyEcAX-0gupq&oh=e351b84d1f19778b92a46c4ad25031cf&oe=5EDD18D8",
+                            "username": "ilana_cedar"
+                        },
+                        "text": "I\u2019ve recently experienced some changes in my body for a variety of reasons, and am struggling to recognize/feel it as my own body. I would love to get back in touch with it and feel connected to it again, especially as a non-partnered person whose body/sensuality is almost entirely seen/enjoyed by only myself \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575098720,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575134567,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17848029595753728",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@bish_birthwork if you\u2019re buying via the link in my bio (evyanwhitney.com/sale) no code is necessary! anywhere else on my site, use code \u2018sexualfreedom\u2019.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18040151458218531",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1676089585",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/83629715_1014759382257633_6803386943150227456_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=NC0mOsOHJioAX_B8hop&oh=67a4306bb10bc3ab2b08b96850e11c4f&oe=5EDDF80D",
+                            "username": "bish_birthwork"
+                        },
+                        "text": "Trying to purchase the 30 days but it's saying my card will be charged the full $195. Do I need a code or something?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575100488,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575141320,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 3
+                                        },
+                                        "id": "17852653825700413",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@_jasminrh so it sounds like there\u2019s a few things going on here. whenever i hear someone say that they have orgasms fine with themselves but they aren\u2019t able to have an orgasm with other partners, my first curiosity is what is happening in your head; are you being totally present in the moment with your partners or do you feel like you shoot up into your head? the other thing i wonder is whether or not you feel totally safe to let yourself go to have an orgasm with your partners; like, do you feel like you can really relax & be totally vulnerable & soft with them? & then the other thing I think about is what you said about how you need a little assistance with your orgasm; when i read that, I sensed that you might\u2019ve been referring to bringing in a vibrator or to stimulate yourself with your own hand? & if so, perhaps you feel a sense of shame about needing additional support? I could be totally off the mark with this because I\u2019m reading in between the lines of your comment to determine what the block is. but as you can see, within my work I ask A LOT of follow-up questions to help us both get to the root of what could be blocking you, & unfortunately an IG comment isn\u2019t the best place for a dialogue in that way. that said! in terms of courses, I think Sexual Liberation 101 would be great for you to unpack where you don\u2019t feel safe within your sexual interactions with your partners & how you can feel more safe (or free, or soft, or vulnerable). Sexual Liberation 101 could also help you release any shame you might be feeling about your orgasm, and then create & embody some new stories about it. I hope this was helpful in some way!",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1575142158,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "17886704659446155",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "1904802674",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/67781801_531740224247845_7423879171891265536_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=sZIXF7PnFbcAX9Q9izg&oh=5721edf62bb1c431af0abfe93dc71587&oe=5EDC31A7",
+                                            "username": "_jasminrh"
+                                        },
+                                        "text": "@evyan.whitney bought it! Thank you for such an in-depth response! It definitely feels like fear is getting in the way for me, & I'm hoping this will help me figure out how to overcome it. It's a control thing, I think.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1575143221,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "17872560967508834",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@_jasminrh oh you\u2019re so welcome! i\u2019m glad my response was helpful \ud83c\udf39",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17942323735309885",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1904802674",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/67781801_531740224247845_7423879171891265536_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=sZIXF7PnFbcAX9Q9izg&oh=5721edf62bb1c431af0abfe93dc71587&oe=5EDC31A7",
+                            "username": "_jasminrh"
+                        },
+                        "text": "I'm love expressing my sensual side with myself, & with my partners- nothing feels more empowering. But, I haven't been able to let another person bring me to orgasm in almost 2 years. I didn't have trouble before, but after a very toxic relationship (w/ someone who was always able to bring me to orgasm), it's just not happening. I can let them bring me close, but it won't happen unless I come in for the assist. I've been intenional about switching up how I cum so I don't train myself a certain way, but damn",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575118677,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575140637,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17859885133607251",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@yasha104 I think Sexual Liberation 101 could give you the tools you need to liberate your voice when you\u2019re hooking up with some to prioritize & stand up for your pleasure. it\u2019ll also help unpack what could be blocking you from thinking that you\u2019re not supposed to speak up & ask for what you want. check that out!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18066876385174674",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1077675554",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/10956692_389168567937378_903606937_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=iOM-5pv5_9cAX_m_BP5&oh=8200877528f1bb4b8a336fb79e86d7b2&oe=5EDAFF02",
+                            "username": "yasha104"
+                        },
+                        "text": "Really confused by the courses. I feel fine with my body and masturbation. My issue is to demand my orgasms in hookups. That\u2019s still super intimidating",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575126756,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575140523,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17854134019667639",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@mauraquarian 30 Days of Sensuality was made for you in that I designed it for folks who\u2014for lack of a better term\u2014feel castrated from the neck down, which shows up exactly how you mentioned in your comment: in your head a lot & disconnected from your body. I\u2019ve packed the course with gentle, playful assignments to help you build a daily sensual practice where you\u2019ll be giving your body space to feel & be. there\u2019s also journal prompts to get you deeper into where that disconnection from your body is coming from & how to bring in more mindfulness & awareness of your senses. I think it would be perfect for you.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18017458972247814",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "5649433991",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/50083411_379959762760038_3439580187694465024_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=iQ9MYYj86-0AX8fm4f4&oh=bac924624099fafa902fe9db0b325fbb&oe=5EDD5F15",
+                            "username": "mauraquarian"
+                        },
+                        "text": "I have realized recently that because I am in my own head a lot, often I am disconnected from my body, my true feelings & intuition. I\u2019d love to be in a place where I feel grounded and connected. I want to totally comfortable and confident in my body/sexuality/sensuality without relying on external validation (like waiting for a partner to compliment me).\u2764\ufe0f thank you.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575126875,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575140351,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17861941405577946",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@mystic.tigress for you, i would recommend both Sexual Liberation 101 (to challenge & shift those negative beliefs) and the Sexting Myself guidebook (to shift your sexual self-image & bring some softness to your body in the form of sensual self-portraiture).",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17847832534743844",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1945533027",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/84334643_1606590452798580_7713156918767779840_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=RgxSCR5VP18AX-6XD9b&oh=8ab6e22b90b8474b3a9eeee261eefe98&oe=5EDD9BF0",
+                            "username": "essentially.cosmic"
+                        },
+                        "text": "I just want to express myself comfortably. I went thru 12 years oh childhood sexual trauma. I literally feel negative beliefs bored into my skull. I just want to feel sexy and beautiful. I have an amazing partner who is kind and authentic. And makes me cum allll the time. But when I want to initiate... I get scared and don't let myself and blame low libido. I feel shame ariubd being sexy because I have big boobs. So I feel like I always want to hide. I feel betrayed by my body.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575130223,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575140213,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "17951204743306107",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@clasby yes, I agree that Sexual Liberation 101 would be great place to start for you. I would also recommend 30 Days of Sensuality to bring some healing & safe connection to your body outside of a sexual context. that course will help you to forge a new relationship with your body, one that feels like it belongs to you on your own terms. I hope you find peace. \ud83d\udc93",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17889599734439614",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "7602145",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/46089004_298672440757553_6741228312426708992_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=FVuN3mcN2TMAX_BVUTj&oh=f991564c03de6c2e47ed058968dd7c0a&oe=5EDBD3F6",
+                            "username": "clasby"
+                        },
+                        "text": "I'm currently in process of working on my wounds around sex and sexuality. I was sexually abused by multiple members of my family, starting at a very early age until I was 11. I'm on the d.i.d.. spectrum. I often disassociate during sex. I just spent the last year with no penetrative contact in order to better understand my relationship to sex and desire and intimacy. I'm now in the next phase of learning to experience ecstasy without attachment and am becoming physically intimate again with new people, but it's scary. My old stuff keeps popping up, not just what I am conscious of regarding my previous sexual partners but also the incest wound that was created so early on and crossed all the wires. I feel like the sexual liberation 101 is best for me, do you agree? \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575325071,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17848466188753477",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "6453777480",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/67097160_2418661948190258_9212638187732598784_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=wMKMLEsk3eAAX_9F9P1&oh=79eadd3a05770d09a7bb521db3d23923&oe=5EDC6AF8",
+                            "username": "whats_up_marie"
+                        },
+                        "text": "@_namukasa_ not sure what your 2020 goals are, but obviously I thought of you because #learning #growing #healing? \ud83d\ude0a",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575919235,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1575919347,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18028496005245745",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "4324818279",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92941709_272549913746195_4822049642524966912_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=urC0ml_P04UAX-29OPI&oh=9a904f96055d6cef037117e24e853776&oe=5EDD52DB",
+                                            "username": "takemetonever.land"
+                                        },
+                                        "text": "@evyan.whitney I'm only 17 and I honestly would love to know in dept with meaning of sexuality, your personal definition- I fully trust & I just would \ud83d\udc95 to know- please respond to me through dms just in case if I have more questions, if that's okay?",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17892638575432468",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4324818279",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92941709_272549913746195_4822049642524966912_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=urC0ml_P04UAX-29OPI&oh=9a904f96055d6cef037117e24e853776&oe=5EDD52DB",
+                            "username": "takemetonever.land"
+                        },
+                        "text": "Hiiiii, I love your content!\ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575965826,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17901059623394914",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1809082775",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72944697_3331616633574933_3942089286857261056_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=O4Dde1KPiMwAX8hsw63&oh=fed900103a438c347531b3da5085f834&oe=5EDC8383",
+                            "username": "owl_ethu"
+                        },
+                        "text": "@oshu_owl",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFCbFoxOFZjR0xFcHVLVnVvbkd3OUJqZTd4b0hLNElEUElla2hPN3otWkZrakpfSHBmUWxzY0txaUdUdDFuemVrUnVMWXFfX0R5ZDFOLTJDbVh1MjZyaA==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2187976924221994079",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ACoqywKbJxWomnyfxEAdOOetVL2EQuFBJwMnp/SkUUsVNHEznC81PaoQ4yOoIwfUjIq1dwsu3YucDkjrn8KVykihJE0TbW6io8U92ZjubrTM0yTcSVrgkgnbngdOn689/wAakMaqM8Enqcck+tVtPOBtPBBIP49KllcxMC3Knj6H/wDVUM1QiwFec5III/Uf1qwNpxu5Pp2/GgNxuAzjtVK1k3uSTuPXGCAPYZpAWPJ5y/zA5yPY/wCFYUi7WIHQEj9a6CZ9pX0Oa55zuYn1JNXEmRZjuCJNx78GtacebEcckDP4jp+fSuePSty2PA+lJgilDLnvg+p5/nxVgTBV5/WoNo808d6eT87fWkUE86yIrL1X+VZm6h+GP1ptWjNs/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_owner_to_timeline_media": {
+                "count": 349
+            },
+            "followed_by_viewer": false,
+            "full_name": "Ev\u2019Yan Whitney \u2022 she/they",
+            "has_blocked_viewer": false,
+            "id": "635534",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "evyan.whitney"
+        },
+        "sensitivity_friction_info": null,
+        "shortcode": "B5dQWuRAPRf",
+        "taken_at_timestamp": 1575047196,
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiM2RjYWNmODcwZGNkNGY0MTg0OTZjY2ViODgwODNkNTEyMTg3OTc2OTI0MjIxOTk0MDc5In0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

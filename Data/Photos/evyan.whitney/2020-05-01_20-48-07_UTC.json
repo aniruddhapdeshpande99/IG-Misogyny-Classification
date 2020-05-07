@@ -1,0 +1,913 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.3.2"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Photo by Ev\u2019Yan Whitney \u2022 she/they on May 01, 2020. Image may contain: possible text that says 'you are not broken. the patriarchal system that has shamed your sexuality and put men's sexuality as the default is what's broken. @evyan.whitney'",
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/95495183_2899704113482300_4314957574294394996_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=wivAuQKEeF8AX9Oa09g&oh=250e702e6955b5a7dacec100da5174eb&oe=5EDC8C8A"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/95495183_2899704113482300_4314957574294394996_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=wivAuQKEeF8AX9Oa09g&oh=4c9ca0ec0635036838863ba2b0283c71&oe=5EDE04CE"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/95495183_2899704113482300_4314957574294394996_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=wivAuQKEeF8AX9Oa09g&oh=4033f2d806e5106fcf21c1d48a1e927f&oe=5EDBDACE"
+            }
+        ],
+        "display_url": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/95495183_2899704113482300_4314957574294394996_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=wivAuQKEeF8AX9Oa09g&oh=4033f2d806e5106fcf21c1d48a1e927f&oe=5EDBDACE",
+        "edge_media_preview_comment": {
+            "count": 86,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1588705686,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18034907584249690",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "378865316",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/83757953_727537224444808_9110003089426874368_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=F3wJ-WrpI3IAX9bviKG&oh=327105fa136a1aa3f098ea49c439ab30&oe=5EDA56FD",
+                            "username": "radiant.heart.path"
+                        },
+                        "text": "I really loved the post you just deleted about what it takes to become a sex educator\u2014and as well any kind of teacher or leader in these worlds. So many people fronting on social media days. Too little people putting in the years of work. Respect \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588736158,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18054867514239121",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1199684101",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/89833589_535311860523440_8704444776662958080_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=OaVtsqfIsuoAX9eTbUB&oh=77769a72867eb07b065f790fd5516ef9&oe=5EDD5047",
+                            "username": "barbarabailando"
+                        },
+                        "text": "@primadora_ I\u2019m working my way through that one too \ud83d\udc4f\ud83c\udffd",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 5204,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I\u2019ve lost so many hours of my life to thoughts that there is something wrong with me; that my body is faulty; that my orgasm, arousal, sexuality is broken because it doesn\u2019t look the way it \u201cshould\u201d. This thought has seeped into the sexual experiences I\u2019ve had with others. It has poisoned the intimacy between me & my lovers. It has stripped me from my power with that harmful notion that as a sexual person, I am not enough.\n\nThe sexual standards our culture (and we ourselves) has largely measured us against\u2014how fast we\u2019re supposed to come, how aroused we\u2019re supposed to get, how easily our desire is supposed to arrive\u2014is man-made, literally.\n\nFor hundreds of years, cis-man sexuality has been the dominant default to the extent that the perfectly normal nuances & unique manifestations of our (those of us who a not cis-men) own sexuality have been deemed immature, complicated, damaged.\n\nBut there is beauty in having this information. It means that there is literally nothing wrong with you, that you are not broken. What is broken is the patriarchal system that is being used to judge & quantify your sexuality. This system doesn\u2019t serve you, it doesn\u2019t want you to thrive. It wants to keep you small. And you don\u2019t have to believe that shit anymore. You can release it & choose how you want your sexuality to be actualized. You can choose to celebrate your sexuality as it is now. And that choosing is a giant fuck-you to those oppressive systems because liberating yourself from the insidious clutches of these beliefs is an act of resistance.\n\nYou\u2019ve probably heard that May is Masturbation month\u2014which is honestly the perfect time to practice and embody new stories about your sexuality through the way you hold space for your pleasure, to use solo sex magic to reprogram the way you access and make space for your sexuality, to deepen your connection with your body and erotic energy on your own terms.\n\nWhat systems of oppression regarding your sexuality do you want to unlearn? What new intentions about your sexuality do you want to reclaim? And what will you do this month to begin that healing/liberation journey, step by step?\n\nHere with you. \ud83e\udde1"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 86,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1588378024,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17947465720339605",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1107936975",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/58453501_531890434004729_2303770983846117376_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=raaUPVTzhOkAX82Kewp&oh=d0633bd95282a1f6ec0306076f91e009&oe=5EDB0439",
+                            "username": "alisenronayecharlten"
+                        },
+                        "text": "\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588381610,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 6
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18140229517003009",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "3720153",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/88998693_185995932834042_1772940110124285952_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ElWLkgQzAioAX8kezea&oh=454d960944802e0111de89e0a9733787&oe=5EDBB071",
+                            "username": "carlytyner"
+                        },
+                        "text": "My meditation just this afternoon was me taking a phrase I hear too often in my negative self talk: \u201cI am too sexual\u201d, and converting it to \u201cMy sexuality is powerful\u201d. I am through with the shame surrounding femme, non-binary, & trans erotic power. What feels good is what is right. \ud83d\udc96",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588382213,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18139079668006429",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "17951193",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/82570938_498193571108141_8174840794708967424_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=0mOnS1jjr2AAX-QxqV6&oh=970368b784f6c2d9e027e7820ac1f7b4&oe=5EDB88D8",
+                            "username": "iva_dee"
+                        },
+                        "text": "\ud83d\udcaf\ud83c\udfaf",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588382763,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17866395949774316",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1518191795",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95015015_2696862457234323_3067730109709418496_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=nZWiohrijPIAX8rYMZi&oh=f5cfef623e29ef25c88706ee86971f5c&oe=5EDB31F7",
+                            "username": "heather.horbatt"
+                        },
+                        "text": "\u2764\ufe0f\u2728\u2764\ufe0f\u2728\u2764\ufe0f\u2728",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588383824,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17864039848801390",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "6425199",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/32144588_182687115723166_5491412676334583808_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=eqIoES6zyAQAX-GU3EB&oh=10f589ffafb840f5e155f0e2bf621c0a&oe=5EDBF5B8",
+                            "username": "megtrev"
+                        },
+                        "text": "\ud83d\udc97\ud83d\udc4f\ud83c\udffc",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588384356,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 11
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1588394615,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 5
+                                        },
+                                        "id": "17855170744956777",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@primadora_ one of my faves. @enagoski is a genius.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1588736158,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18054867514239121",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "1199684101",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/89833589_535311860523440_8704444776662958080_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=OaVtsqfIsuoAX9eTbUB&oh=77769a72867eb07b065f790fd5516ef9&oe=5EDD5047",
+                                            "username": "barbarabailando"
+                                        },
+                                        "text": "@primadora_ I\u2019m working my way through that one too \ud83d\udc4f\ud83c\udffd",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17886296386553631",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "570246452",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/49303082_1179435208892421_8000325652018364416_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=0X8Uz0jPUkwAX9Tmahz&oh=011fe9fef435acb88061c34b7a179881&oe=5EDBACE0",
+                            "username": "primadora_"
+                        },
+                        "text": "So true... thanks for this. I\u2019m ready a great book about this that is helping me reprogram myself; it\u2019s called Come As You Are \ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588386615,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17881445812594340",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "254807881",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92912658_2952052544847698_7700841409284145152_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=B-1Ekf0y6igAX9U8-Wn&oh=c11004d1d9315e4e7de51b3c1dffd565&oe=5EDBCCDD",
+                            "username": "_allteenoshade"
+                        },
+                        "text": "\ud83d\udcaf",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588388883,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17886975376550581",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "22084576982",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87400620_1033079707075098_8850232197370609664_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=pplzW6NYl44AX840wPe&oh=180122cd92a1ba6c77e6c2b0a5eea8a0&oe=5EDE05CB",
+                            "username": "mentalhealthandsex"
+                        },
+                        "text": "Which is why the mother is rising.  Putting the matriarch back in her place.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588388956,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 6
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1588390509,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17857107085931341",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "258376690",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95376008_241775926916621_6404312622253998080_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=0e-bcCHgXVMAX9R3tLe&oh=a27c648288290e7ccca1c6e4aa969362&oe=5EDD2F13",
+                                            "username": "dynamic.rest"
+                                        },
+                                        "text": "@dynamic.rest sorry I didn\u2019t realize how long this was until I re-read it I\u2019m sry",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1588403130,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17887297639544926",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "12000623862",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/80627250_2528290730747593_8498078933894299648_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=4FhiFg7nOE8AX-1ftMz&oh=c3eac0ce17806904c6fe9a98060f154a&oe=5EDCBD37",
+                                            "username": "daisypoet11"
+                                        },
+                                        "text": "@dynamic.rest it's not too long, it's perfect, thank you for sharing \u2764\ufe0f",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1588414939,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18087450301174492",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "258376690",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95376008_241775926916621_6404312622253998080_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=0e-bcCHgXVMAX9R3tLe&oh=a27c648288290e7ccca1c6e4aa969362&oe=5EDD2F13",
+                                            "username": "dynamic.rest"
+                                        },
+                                        "text": "@daisypoet11 thank you for reading \ud83e\udd70",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17853898798987039",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "258376690",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95376008_241775926916621_6404312622253998080_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=0e-bcCHgXVMAX9R3tLe&oh=a27c648288290e7ccca1c6e4aa969362&oe=5EDD2F13",
+                            "username": "dynamic.rest"
+                        },
+                        "text": "I am unlearning patriarchal oppression surrounding sexuality by having recently \u2018come out\u2019 as asexual. Finally speaking my truth has breathed so much power back into who I am as an autonomous woman; it is that autonomy which goes *directly against* the patriarchy and the ones who thrive on us being submissive in any form. It took me nearly ten years to face it and choke down the shame I felt surrounding it. I still find myself wanting to defend it when it doesn\u2019t merit defending! In our cis-male dominated world you\u2019re only of value if you want to be sexual on their terms. God forbid it be your own. We are judged by our sexual appetites, however prevalent or absent they may be. My new intentions regarding my sexuality is to drive home the fact that there is nothing wrong with mine nor anyone else\u2019s sexual orientation or appetites, regardless how different they may look to one another. We are not broken, dirty, or damaged. Healing for me will probably include speaking out about it every day, regardless how annoying that may be to my followers or friends \ud83d\ude05",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588390736,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17866612690746683",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "285329329",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/93477697_272493310433117_7744726633495396352_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=jLAD6CM7BKUAX9YZfKV&oh=6ec1b57c28369a808ed1b491287d4532&oe=5EDB50B8",
+                            "username": "venividiviciiiiiiii"
+                        },
+                        "text": "How fast to cum \ud83d\ude4c\ud83c\udffd\ud83d\udc99\ud83d\udd25 yes. Took the words right out of our hearts. Thought provoking & empowering. Love ya sis \ud83d\udc97",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588392362,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18128492464072293",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "277907308",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/19227973_1464610576962753_4219205142345416704_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=VcHnBcxtS50AX_6sAfh&oh=8d07d412a19f79d11f3401df659eafec&oe=5EDA3572",
+                            "username": "broadsquiat"
+                        },
+                        "text": "\ud83d\udd25\ud83d\ude4c\ud83c\udffe\u2728",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588393763,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17853120440000208",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "54899475",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95419873_631478110770793_703785706333405184_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=VX3tb1ba5RgAX9rv6QZ&oh=76c13c388c02d323445efdcb1777b3a4&oe=5EDB6960",
+                            "username": "kyleeforce"
+                        },
+                        "text": "This month I want to embody my wild feminine sexuality and embrace pleasure completely free of judgment of how I look.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588397318,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17883579544560378",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "46492028",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/16908741_976511225818144_2315426266662043648_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=PriGR2vFa7AAX8K-yjF&oh=cde123de4c28fe9ee091588570bdfea0&oe=5EDBCE33",
+                            "username": "hokuhappystar"
+                        },
+                        "text": "Thank you sis \ud83d\udc93",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588398703,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17878641163609299",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2008296620",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/11950519_1687551174801618_1697716382_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=uAV55dSRQz8AX8dEBu6&oh=9971dede617db176b2691c6eba6c372b&oe=5EDA807E",
+                            "username": "convhersations_"
+                        },
+                        "text": "I was just talking about this during my pleasure party.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588400546,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18086352538175398",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "13914276",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/11375755_1614362765482112_484611421_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=3EeoDtzoKBEAX_Fvk5m&oh=53d44af9ac93191fb6f585d81d30b394&oe=5EDBBA35",
+                            "username": "margotlouisep"
+                        },
+                        "text": "\ud83d\udc96\ud83d\udc96\ud83d\udc96",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588401709,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17847314546094421",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "288048870",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/45878878_323451788245957_5454274270219730944_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=gH5dvFmat9sAX9B88Th&oh=0f6d40a78f3cf1b5e4349230bc44cc79&oe=5EDC1C00",
+                            "username": "its_missbo"
+                        },
+                        "text": "\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588423293,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17935282705369357",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "389958920",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/40412863_461009234393264_8758105299195265024_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=X3wPwU7Ajn8AX_mg20q&oh=22758f7ad2a19280cb38ba55c7a8c04c&oe=5EDCD405",
+                            "username": "coconu"
+                        },
+                        "text": "You are perfect as you are \ud83d\udc99 We want to empower all women to take charge of their sexual health!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588426591,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17855931208927586",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "12666111348",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/69368574_2584150754939984_7893396174827159552_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=PCVayRk1YlsAX8f_UfK&oh=32906966b19e30f503d0d39f67086d83&oe=5EDBDA77",
+                            "username": "chantenicole423"
+                        },
+                        "text": "At the age of 35 I am finally becoming comfortable with my femininity and sexuality. I\u2019m still learning to break from the idea that a woman is to be delicate and not so vocal. That isn\u2019t me, and I no longer can fake it anymore in order to make others comfortable. My peace and my own understanding are what matter the most to me now as I soon journey into year 36 with my two sons in tote.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588426722,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17890076605512288",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1292606458",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/94559669_991097437958172_7467603244634603520_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=de8opT4y_w0AX_AcH0L&oh=36b3f74792689f56ac237eb9ca361440&oe=5EDA61A9",
+                            "username": "be_elz_ebub"
+                        },
+                        "text": "Thank you for this!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588465524,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17875491010640663",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "3711015749",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/40060708_292224924703116_4730983206134743040_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=PiCSAGs1B4QAX8EQEIh&oh=edf9f6a43e7c53fa6c57cf1a83dd7105&oe=5EDB3D4E",
+                            "username": "tarot_realta_dubh"
+                        },
+                        "text": "Damn Sis! \ud83d\udc51\ud83d\udc96\ud83d\udd2e Run and tell that TRUTH",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588478857,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1588478875,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17877581026619074",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "32493380",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/94839104_222150472412443_7949992509369745408_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=r5t1bQnRw3cAX_ukrQk&oh=0dd4c08117f551fda1b9feef61803846&oe=5EDB2375",
+                                            "username": "ericarose_tattoos"
+                                        },
+                                        "text": "I think you\u2019ll really like this lady \ud83d\udc95",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17925710833380635",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "32493380",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/94839104_222150472412443_7949992509369745408_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=r5t1bQnRw3cAX_ukrQk&oh=0dd4c08117f551fda1b9feef61803846&oe=5EDB2375",
+                            "username": "ericarose_tattoos"
+                        },
+                        "text": "@mandijane_ink",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588479179,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18114228796113241",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "358514674",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/94707189_601737047084858_5230631504891084800_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=5BrsRAfEggsAX_toZc6&oh=477cf079dda3e3007ba9185e0fffc4ef&oe=5EDC9A91",
+                            "username": "moonhandz"
+                        },
+                        "text": "I needed this. Thank u",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588658531,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17845770023109924",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4071386170",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/75341458_554208028484786_6929414391855054848_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=wpIxkrJWoH4AX8xgSLD&oh=a9067c09961f07b447200e6ec5b0ba21&oe=5EDA8F19",
+                            "username": "yestantra"
+                        },
+                        "text": "\ud83d\ude4c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1588705686,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18034907584249690",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "378865316",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/83757953_727537224444808_9110003089426874368_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=F3wJ-WrpI3IAX9bviKG&oh=327105fa136a1aa3f098ea49c439ab30&oe=5EDA56FD",
+                            "username": "radiant.heart.path"
+                        },
+                        "text": "I really loved the post you just deleted about what it takes to become a sex educator\u2014and as well any kind of teacher or leader in these worlds. So many people fronting on social media days. Too little people putting in the years of work. Respect \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFCdHpHYkhDWWZWeXo5YVFQRTVQVndPZE1iS2lWeG5DTVFRM09GLVhRY3RWSzJkcHVVTmNOTy1xa3lGNDdQa2VqSEIxczZGRTRXdjNfVHhvN1NtS1dZag==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2299703883590656189",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ACoq6Dy3zndx6YFIInx9859cCoCG3HAfknnPH1/wpu0kHHmZHuPpj6fhQBY8l/756Y6Dr6//AKqeiMp5bd+Aqrg56SfmPTGf896MEdfMJx2PH+e31oAv0U1BgY649eadQBQdRuPy9yfv4/H2+lMRcZ+UDIP8fJz75/z+FXWgjbqoOeTR5KHsKAKix5IAXg4J+fn/AB49v8aXym4ynA4+9+X8/wA+atLCicqAMelS0AV4Ay8FdoIyec8+n5VYoooAKKKKACkLAdTilppUHqM0AJvX1H506m+WvoPyFOHFAH//2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_owner_to_timeline_media": {
+                "count": 349
+            },
+            "followed_by_viewer": false,
+            "full_name": "Ev\u2019Yan Whitney \u2022 she/they",
+            "has_blocked_viewer": false,
+            "id": "635534",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "evyan.whitney"
+        },
+        "sensitivity_friction_info": null,
+        "shortcode": "B_qMH9uAeC9",
+        "taken_at_timestamp": 1588366087,
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYzY4ZTIyNzE1Y2Y4NGI4YTg2OThiZWQ4NTg1ZDRmODUyMjk5NzAzODgzNTkwNjU2MTg5In0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

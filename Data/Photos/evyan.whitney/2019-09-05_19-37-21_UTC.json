@@ -1,0 +1,861 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.3.2"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/69738440_372734713422021_3535031969778351104_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qSizHgnoL8cAX_NhxkX&oh=874c24da033643b8275a7bafea2240c1&oe=5EB52F9C"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/69738440_372734713422021_3535031969778351104_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qSizHgnoL8cAX_NhxkX&oh=244a547371fc93e41b54171a3be06ad9&oe=5EB4CFFF"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/69738440_372734713422021_3535031969778351104_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qSizHgnoL8cAX_NhxkX&oh=244a547371fc93e41b54171a3be06ad9&oe=5EB4CFFF"
+            }
+        ],
+        "display_url": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/69738440_372734713422021_3535031969778351104_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qSizHgnoL8cAX_NhxkX&oh=244a547371fc93e41b54171a3be06ad9&oe=5EB4CFFF",
+        "edge_media_preview_comment": {
+            "count": 106,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1572033402,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17881803421447048",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "224557112",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/10261219_1432448327021441_439261662_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=mfqpSGH0EncAX-JgntX&oh=618e60362e4da3f5750862dc1f02c079&oe=5EDBA0FD",
+                            "username": "blacqueunicorn"
+                        },
+                        "text": "As a black woman who\u2019s born in Portland and my roots are there, I get what you\u2019re saying... but also raised in Atlanta truthfully LA is no better, they just bullshit and smile in your face here. Same sentiments. But I feel ya. \nOn another note I\u2019m super into the mix of sensuality and dance and I hope to take class from you and explore sexuality further while we\u2019re both here in LA \ud83c\udf39\ud83d\udc9c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1577327299,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17855987788683536",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "200910939",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/51900705_219109595606888_4698835667981959168_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=GYur4gHLMawAX-bU7-F&oh=ace38230685d2e8c668a77da699b7140&oe=5EDCE8CE",
+                            "username": "karmenprgirl"
+                        },
+                        "text": "What kind of beads are around your waist! I am interested and want to learn more",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 2936,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I\u2019ve got exciting news (watch til the end for a surprise) ... I\u2019m moving back to LA! \u2728\u2728\u2728 I\u2019ve been calling Portland my \u201chome\u201d for almost 9 years, but it\u2019s never really felt like my home-home. I\u2019ve been missing Los Angeles terribly; it\u2019s where my roots are, where a lot of my chosen family live, and each time I\u2019ve gone back I\u2019ve felt lighter and more able to access my radiance. Actually, it was this most recent time where I spent 16 days in LA when my mom told me, \u201cEv\u2019Yan, every time you\u2019re there you just seem to come alive.\u201d And it\u2019s true. I can\u2019t deny the truth of how I feel anymore. It\u2019s time for me to get the fuck out of this damp, dark place and to begin to rebirth myself.\n\nEvery tarot card reading I\u2019ve gotten in the last two weeks has told me that it\u2019s time to take a risk, that fortune favors me when I\u2019m bold, and that so much joy and abundance awaits me when I choose to move forward toward my desires and pleasure (shout out to @thequietestrevolution !). So, I\u2019m doing it.\n\nLos Angeles, I\u2019m coming for you! Excited to go on this new adventure and really ready to get the fuck out of white ass, oppressive ass, racist ass Portland. (thank you to my lover @jonathanmead for this capture \u2764\ufe0f)"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 106,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1567725010,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1567725270,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17876302249434389",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@conni.biesalski yessss!! i\u2019m being reminded of all the cool ppl who live in LA!! \u2728",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1567731729,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18097643248039297",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "4497406",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/21040946_1520277958019204_9105087482176733184_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=gJlDvLblPxoAX-QUfSm&oh=6577b7621ca5a400aea46782c12b6ce5&oe=5EDBDD53",
+                                            "username": "conni.biesalski"
+                                        },
+                                        "text": "@evyan.whitney come hanggg! Would be fun to catch up when you\u2019re settled!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17998056046261013",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4497406",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/21040946_1520277958019204_9105087482176733184_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=gJlDvLblPxoAX-QUfSm&oh=6577b7621ca5a400aea46782c12b6ce5&oe=5EDBDD53",
+                            "username": "conni.biesalski"
+                        },
+                        "text": "Wohoooo that\u2019s awesome news!! \ud83d\udc9b",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567726268,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17870131090460105",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "19057364",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/93118541_2552478711633272_255686614380969984_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=0YzEwpi6yUgAX8roypk&oh=a5395fdf57de74a9ffc60c18d4f39679&oe=5EDCE110",
+                            "username": "briannepatrice"
+                        },
+                        "text": "\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567727884,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17909515213351353",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2447820",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/33721612_2101054836590804_7358707939437182976_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=0dTQGG__D0MAX-JGH63&oh=ef39ad5431d71c517dfb3e1899114efa&oe=5EDAF0AF",
+                            "username": "dyanavalentine"
+                        },
+                        "text": "Can't wait to hug you!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567728290,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1567787036,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18078336010108202",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@chaya_labufff the area that we ran into each other in, actually! \u2728",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17850548635569950",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4309044275",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/79532303_453302418682315_8519355274165747712_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=UTxHA3nWIckAX_ky_jp&oh=586133bc5b67900f450915bddc73bbbf&oe=5EDCAEC1",
+                            "username": "chaya_labufff"
+                        },
+                        "text": "Yay!!!! Which area are u thinking? Lol so funny I saw u on my block last time you came around.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567728879,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17898563998373912",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "42353654",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/39960652_2231345707084881_6276319624715829248_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=XdckRrQkXe4AX9WJKJn&oh=7210381a126dc3a12670a517a7d078c8&oe=5EDBCC1A",
+                            "username": "scorpiosun_"
+                        },
+                        "text": "Awesomeness!!!!! You\u2019re absolutely welcomed and even celebrated here! \ud83d\udc95\ud83c\udf3f\ud83d\udc95 Safe travels \u2728",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567729163,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18067426678086776",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4309044275",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/79532303_453302418682315_8519355274165747712_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=UTxHA3nWIckAX_ky_jp&oh=586133bc5b67900f450915bddc73bbbf&oe=5EDCAEC1",
+                            "username": "chaya_labufff"
+                        },
+                        "text": "Yay!!!! Which area are u thinking? Lol so funny I saw u on my block last time you came around.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567729457,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18068262865136941",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "281570361",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95320600_238634107374743_4148689604775510016_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=8DvY3XfZk_8AX9fp7qB&oh=b7b9a6ddec47fd4bd2f7ea2e33c91e5f&oe=5EDB9573",
+                            "username": "kellikikcio"
+                        },
+                        "text": "SO happy for you to make this move!! \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567737965,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17917475239334965",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "8185023816",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/69741812_926102287773444_7241842214320472064_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=G6Uj46-gflsAX9gKayN&oh=c7535f689c054631e2704047baa43e75&oe=5EDBA09E",
+                            "username": "ilonawashere"
+                        },
+                        "text": "Excited to have you here at home in LA :) i just got back and i feel like my entire soul has lit up.. hope it feels the same for you\ud83d\udc95\ud83c\udf3c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567738648,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17853621400554170",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2881992468",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/65490616_418524968741409_2646512754206179328_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=xHbMHEE_Sq4AX-7803K&oh=9988ededab6bb81bc263c5e4732e042a&oe=5EDABCED",
+                            "username": "rosewayyoga"
+                        },
+                        "text": "You will not regret living in a less racist place by the ocean and sun. Holy fuck we are in for it. I can feel it. I met you once at a recording of a podcast you did with #Leafly (fuck leafly btw, they did the worst fucking interview) You were a true gem of course though and I had the pleasure of standing with you briefly in the hall where I stumbled over my words and probably seemed like a true tool but I just wanted to tell you that your work has touched me very deeply and I am forever changed  I just wanted to drop a note of love and support always from Portland. \ud83d\udc8e",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567739266,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17859468406506997",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2301715094",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/26073331_1142282319240681_5812765853157949440_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=_MsO7jGV8_0AX99kU7u&oh=f33ff9d7680cacb679c13fe47bd62a1a&oe=5EDB82AD",
+                            "username": "bekah"
+                        },
+                        "text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567743054,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 3
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1567743381,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17917362604329480",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@islandirie I would love a goodbye karaoke sesh!!! \ud83d\ude2d",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17959522924288164",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "30887566",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/13725470_923844571075063_573462465_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=KT3YvXwV1YUAX-6FsUg&oh=74853cdef118d2a994a97868ddf503d8&oe=5EDD2090",
+                            "username": "islandirie"
+                        },
+                        "text": "Aaaaaahhh!!! I\u2019m selfishly sad to see you go but I\u2019m also extremely thrilled and happy for you to be in a place that truly home! Any chance of a goodbye karaoke sesh before you go?! \ud83d\udc40 otherwise I\u2019ll be penciling in more LA visits \ud83d\ude05",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567744259,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17883451588416951",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1466752152",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/22427140_207879719750929_8970738783444008960_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=yywoLS1FxqcAX_iYzD0&oh=03d434b156293389c2d3439d70eff8ee&oe=5EDDEB23",
+                            "username": "theconsciousmama"
+                        },
+                        "text": "Yeeeessssss! I can\u2019t wait to see the magic you create here! \ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567746429,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17993783635267608",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4986734462",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/59651613_340489673158648_1389963193509478400_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ggCmJ5Bv534AX9hWhMF&oh=3e98bb861da958542ce508dd986e0028&oe=5EDA2EA1",
+                            "username": "fawnala123"
+                        },
+                        "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567752439,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17900600797371155",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1529540750",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/69469572_510885652787346_6014608528428236800_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ZzVHY_ke1TcAX-SoDPN&oh=1a18a2b96539853593c0089ce2397a38&oe=5EDB655A",
+                            "username": "thejanetbrent"
+                        },
+                        "text": "I felt this for you! And I\u2019m feeling it about Portland too :T Congrats!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567775421,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17919392926323713",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "173847250",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/65502274_1120489514818063_5862042558405804032_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=w8gfjDfPi2cAX94KFIT&oh=2b9af482376b5d900c543df7086b1cae&oe=5EDB28DE",
+                            "username": "fenestravitae"
+                        },
+                        "text": "Welcome back!!! I feel the same way about LA where I was also born and raised. It clears my everything. Soon. Congrats.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567792191,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17914688041337998",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "300042621",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/14276547_358768237844267_801774109_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=7jgFvdxq1YwAX9JH2-0&oh=a1c64f5a6ccb36da8b61750051314f82&oe=5EDD5D71",
+                            "username": "drena_simmo"
+                        },
+                        "text": "Damn I\u2019m old. 9 years passed so quickly. Felt like yesterday when you moved to Portland. #apricottea",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567818722,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18057350074160107",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "406350",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/70737276_1780309938779991_475676522909270016_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-9s0mrR-fooAX8yL3_F&oh=14a8db70b1579d2ee9ceeacdf714b993&oe=5EDC9B74",
+                            "username": "holisticsomm"
+                        },
+                        "text": "Love this! I\u2019m in Los Angeles right now and I\u2019m thinking about transitioning out here from nyc. (((Dig the vibes out here)))",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567838096,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18079379944129625",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1140988900",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/88154021_628145941344225_908704626159648768_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=iCNsehLi410AX_Q94sY&oh=65f857835d3f8164bf3b46f35488c067&oe=5EDB0E69",
+                            "username": "erin.blogs"
+                        },
+                        "text": "And sunshine more then two months a year. \ud83c\udf1e",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1568699030,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17848250752613213",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "470183399",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/93794416_151950842925230_5955638670403829760_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=B-xzl_ghKD0AX_6Pa8A&oh=48d21008ce6d452c61cebef9d3fa365d&oe=5EDAAF90",
+                            "username": "pumpkinspicemims"
+                        },
+                        "text": "Good luck lovely one! The adventure awaits \ud83d\udc9b\ud83d\udc9b\ud83d\udc9b",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1570337048,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18058463599171832",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "5573244501",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92289177_212674126491956_3567862885071716352_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=Zr2_3HCJdYsAX__IUUm&oh=7ed7f0ab261bbbd176328aa01bfd653e&oe=5EDADF49",
+                            "username": "mamalaurasaysso"
+                        },
+                        "text": "@evyan.whitney It racist ass Oregon, is what it is. I'm from L.A. too and I moved up here(Portland area)2 years ago. I moved out to Lincoln City, where I plan on staying for a minute. But, I understand what you're saying....but it's the whole state.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1570337090,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17874227662458985",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "5573244501",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92289177_212674126491956_3567862885071716352_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=Zr2_3HCJdYsAX__IUUm&oh=7ed7f0ab261bbbd176328aa01bfd653e&oe=5EDADF49",
+                            "username": "mamalaurasaysso"
+                        },
+                        "text": "I don't WANT to afford L.A. Gonna build wealth here.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1572033402,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17881803421447048",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "224557112",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/10261219_1432448327021441_439261662_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=mfqpSGH0EncAX-JgntX&oh=618e60362e4da3f5750862dc1f02c079&oe=5EDBA0FD",
+                            "username": "blacqueunicorn"
+                        },
+                        "text": "As a black woman who\u2019s born in Portland and my roots are there, I get what you\u2019re saying... but also raised in Atlanta truthfully LA is no better, they just bullshit and smile in your face here. Same sentiments. But I feel ya. \nOn another note I\u2019m super into the mix of sensuality and dance and I hope to take class from you and explore sexuality further while we\u2019re both here in LA \ud83c\udf39\ud83d\udc9c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1577327299,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17855987788683536",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "200910939",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/51900705_219109595606888_4698835667981959168_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=GYur4gHLMawAX-bU7-F&oh=ace38230685d2e8c668a77da699b7140&oe=5EDCE8CE",
+                            "username": "karmenprgirl"
+                        },
+                        "text": "What kind of beads are around your waist! I am interested and want to learn more",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFCa05wTHJOb19GWHlCNFpfcHlUeERqN0wxTDlwMUZKUEd5NkllUEQxLWppNlVSTGJvdlJsVGVkeUcxTVNrcmt2OTVmRzFTcW10VnRKY016TFd3dExDUA==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2126429337908507348",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ACoq1JAUUkisWTpV+KfcoD4b681XueZMgcEA0m+bVlxjy6Ijt5WiIIJ47dqtxzMX+Yk5OKqLgUF9r+3BH+frRzXehTho9DZpKUHIz680tdBxGLFIbeIYGWYbsnsCegqu07Ocseat3KjyolHUL/QVT8hvauJqzPVg48t3a+o9JOafMvKv25X+tRiBx6VYk4gPqpz+mKlLXTzFNq3zNSBt0an2/lxUtZOn3WUKt1ByMeh/+vV77QvvXatUedKybRlSSEPhugAX6Edf1qTBxxUb8h8+rfzptuTiuWT1O5L3dCfnvU1tH56sBgjOD+Iqhck4rT08dR9KcHqRUXu38zNsomWdoj1AP6Gtf7K/oPzrPfi+P0/9lq/uPqa3T6HLKKbu+p//2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_owner_to_timeline_media": {
+                "count": 349
+            },
+            "followed_by_viewer": false,
+            "full_name": "Ev\u2019Yan Whitney \u2022 she/they",
+            "has_blocked_viewer": false,
+            "id": "635534",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "evyan.whitney"
+        },
+        "product_type": "feed",
+        "sensitivity_friction_info": null,
+        "shortcode": "B2CmDduAXLU",
+        "taken_at_timestamp": 1567712241,
+        "thumbnail_src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/69738440_372734713422021_3535031969778351104_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qSizHgnoL8cAX_NhxkX&oh=874c24da033643b8275a7bafea2240c1&oe=5EB52F9C",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNmM1ZTg5ODJmNWMwNDg1NGE5NWE2MDM2NmExMDQ1MDAyMTI2NDI5MzM3OTA4NTA3MzQ4In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 14.266,
+        "video_url": "https://scontent-frt3-2.cdninstagram.com/v/t50.2886-16/70788756_155059402225467_2870382861482962528_n.mp4?_nc_ht=scontent-frt3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=_Hid9-tL2dkAX-5Vhyw&oe=5EB48A57&oh=9681dd609fabeed357cf0f3c932dc3e4",
+        "video_view_count": 24921,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

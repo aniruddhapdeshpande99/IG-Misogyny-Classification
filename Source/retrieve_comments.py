@@ -70,7 +70,7 @@ def save_comments(username):
     with open("../Data/Posts_list/" + username + ".json") as f:
         shortcodes = json.load(f)
 
-    for shortcode in posts:
+    for shortcode in shortcodes:
         comment_usernames, comments = return_comments("https://www.instagram.com/p/" + shortcode + "/")
         comment_dict = make_dict(comment_usernames, comments)
 

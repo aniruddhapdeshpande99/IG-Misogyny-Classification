@@ -1,0 +1,848 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.3.2"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1333,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/66431159_2051694398459349_3982586942490993657_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=hcTskr_Sh-YAX9zQ7rZ&oh=9d59384b6b040db5a145cebdbabe4754&oe=5EB4EEB2"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/66431159_2051694398459349_3982586942490993657_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=hcTskr_Sh-YAX9zQ7rZ&oh=721cfc3da8a441cc5a9378a7bca239df&oe=5EB4C01C"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/66431159_2051694398459349_3982586942490993657_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=hcTskr_Sh-YAX9zQ7rZ&oh=721cfc3da8a441cc5a9378a7bca239df&oe=5EB4C01C"
+            }
+        ],
+        "display_url": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/66431159_2051694398459349_3982586942490993657_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=hcTskr_Sh-YAX9zQ7rZ&oh=721cfc3da8a441cc5a9378a7bca239df&oe=5EB4C01C",
+        "edge_media_preview_comment": {
+            "count": 182,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1583821447,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17844267122024053",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "15895261611",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72483905_600785984059663_948768231420592128_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=iCpZ9PrGbkQAX_bvF8U&oh=e8494fc6925ae96cb74d1257b3ae9d0b&oe=5EDDC781",
+                            "username": "gabynighanart"
+                        },
+                        "text": "@makennagumby thinking of trying more dancing instead of sitting meditation!\ud83e\udd8b",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1585376412,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18137062885028073",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1040191295",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/67809757_2349098405138143_5166552632944230400_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=EUn0V-F_Te8AX8sjuLx&oh=b4beac57ec6005eccbc67e60ab980e01&oe=5EDD98A7",
+                            "username": "sophialivetocreate"
+                        },
+                        "text": "I adore this and you - thank you!!\ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 3933,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "These retrogrades have me processing a lot, and I\u2019ve found a lot of comfort + healing in dancing as a way to sift through what\u2019s been coming up and help my body release and unstick stagnant energy. I\u2019ve tried sitting meditation and it\u2019s never worked for me. My body wants to move as it processes and regrounds itself. So, I use sensual dance meditation as a form of self-care as well as a practice of spiritual connection. Here\u2019s what my practice looks like, and if you\u2019ve also struggled with sitting meditation and want to use dance/movement to connect to your body + emotions, give this a try. Also check out the playlist I made if you want to take the guesswork out of what you\u2019ll be dancing to. Just click the link in my bio or search \u2018sensual dance meditation\u2019 in Spotify.\n\nLeave a comment with any questions you have about this form of meditation. I\u2019m happy to help if I can. \ud83d\udcab\ud83d\udc9b"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 182,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1565103380,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17875422160418925",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2363023026",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/93519368_2812455192213496_8301400574545362944_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=5VDCZAWxOmgAX-sb6oU&oh=efe5f7a9f53e78f0fe32813f2df3e4d9&oe=5EDCB39F",
+                            "username": "6.aline"
+                        },
+                        "text": "@tracydarlene__  Vv elle danse mgl",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1565132555,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17851476583515858",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "16703580",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/10919569_1544375475846666_624317709_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=USr-hrROeeUAX_IsOXX&oh=de5dde62d83aa5ec46dff37b9468213c&oe=5EDACF41",
+                            "username": "elizabethcaliva"
+                        },
+                        "text": "Love this! Can\u2019t wait to listen to the playlist. \ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1565282169,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17848248106545637",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "633311599",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/70240418_2550591861629695_7498106192565108736_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=AKj1tdwRs_IAX8uvx_H&oh=7347a7bd5a3f1f01626ad1616b2f6089&oe=5EDD6387",
+                            "username": "joanbaltasar"
+                        },
+                        "text": "\ud83d\udda4",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1565321820,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17898512647362854",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "243536551",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/12918617_1035075433238621_1149682243_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=TWArIsEEDc0AX_lt3qo&oh=63d4f195fc14cd8098ec8b533aef77d8&oe=5EDA4A5C",
+                            "username": "meganraible"
+                        },
+                        "text": "I had never thought of this before but whenever I hit that rare moment where I\u2019m just feeling the music at a party I always feel so relaxed. I\u2019m definitely going to give this a try! When you journal your feelings after do you look back at those entries later to reflect on them? Or just let them be?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1565426816,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17857988434479342",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "216374023",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/94179043_690050898419986_5645927187119865856_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=QqVGJJRxIqUAX_Wy220&oh=d4b50a61a0a4a07656e5c324bc6f7e1b&oe=5EDB6B5C",
+                            "username": "oliviapinkney_"
+                        },
+                        "text": "You goddess \ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1565426817,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17848900201534919",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "216374023",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/94179043_690050898419986_5645927187119865856_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=QqVGJJRxIqUAX_Wy220&oh=d4b50a61a0a4a07656e5c324bc6f7e1b&oe=5EDB6B5C",
+                            "username": "oliviapinkney_"
+                        },
+                        "text": "You goddess \ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566968613,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17846744722592678",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "8771576158",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95525198_664725587440677_6898024034961719296_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=x0Vknjji8ngAX_r6wwX&oh=53a373549296e94135e92109a9043606&oe=5EDB1BB2",
+                            "username": "pigeonsandroses"
+                        },
+                        "text": "Thank you so very much for this!!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567706955,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17928386527308040",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "8851538",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/95302705_551279352175042_1921179716639784960_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=iEIgCjgy_OsAX9I-qxB&oh=3cf1e39ea14f3a19f7be254bae973da0&oe=5EDA4C73",
+                            "username": "radiantly_rawshni"
+                        },
+                        "text": "I love this!! I feel the same, moving and shaking helps my body release any stale energy <3",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567835274,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17892777715387961",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "45603325",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/94219338_707617976640971_2008474501729222656_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=gATPfM9y2u0AX_nQVzD&oh=73621884e82a21c3a53b399af62c2a0b&oe=5EDD3CCC",
+                            "username": "rdanipear"
+                        },
+                        "text": "@daynerco relates to everything I sent to your DM lol \ud83d\udc9c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1568154730,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17846340685607678",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "14144473",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/74634297_784766738653657_6280793563299053568_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=NcuIPBd7SDIAX8y6NNJ&oh=9a44240d159364d23d36040108ebcbe0&oe=5EDAAA2F",
+                            "username": "farrahevita"
+                        },
+                        "text": "What song is this? \ud83d\udc93",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1568354448,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17870128987461693",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "12367782717",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/91414819_1082775622102801_2809711860662665216_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=g-cj6ADXpYEAX-Vmjy9&oh=7d82851c648ac07e2f274ae4f4e23e0c&oe=5EDDCD6E",
+                            "username": "zangohawk007"
+                        },
+                        "text": "Fantastic so sensual",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1569795138,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17843519248699742",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4039467117",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/14718397_193397211097867_3814358475597676544_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=_BINMwLqiukAX-QDw8n&oh=880aa7c2276cc2698b2d134681940654&oe=5EDCE59D",
+                            "username": "chefstins"
+                        },
+                        "text": "Love that armpithair\ud83d\udc95\ud83d\udc93\ud83d\udc96\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1570490806,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17898839020377052",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "190051478",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/88924282_205924297157525_8093734185614704640_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=QPMP20CFkAkAX-zsNsH&oh=3d28c4b8802a7e9b7ab16f05483338e1&oe=5EDDD7CA",
+                            "username": "chrspllrd"
+                        },
+                        "text": "@elyse_kerr",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1574286944,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18033562096228372",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "8132994494",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/75602178_795381587593521_8638741968991551488_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=toZa09y5OJgAX_Og7vc&oh=4f1d7351e561db4f06e8cd51a40e3159&oe=5EDCB5F9",
+                            "username": "felipemeroli"
+                        },
+                        "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575929426,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18032646016235881",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "25965440455",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/75225501_675747549829714_4751071807560220672_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=5RMTMYVurCcAX-PgN4_&oh=e7c90414e468f681ae3270499df2824e&oe=5EDD3FA2",
+                            "username": "starboy_hero_"
+                        },
+                        "text": "\ud83d\udc91",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1575962316,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18119404975018527",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2073106833",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/44912773_354553341978321_3232665263421784064_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=XGbIeZBeSG8AX9LIu2N&oh=e9826dc26f151f4b36014c7f3cadd84f&oe=5EDCB72F",
+                            "username": "vildejensenhjetland"
+                        },
+                        "text": "Thank you \ud83c\udf52",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1576008045,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17975227495288456",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "7058831753",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/77029983_300872247479576_2542668519527415808_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=AJhgCbeH-3MAX8LVgAb&oh=8bac7235e4dbed6fb1177f3b5aca5376&oe=5EDCF21A",
+                            "username": "fernbellabotanicals"
+                        },
+                        "text": "I love this \ud83d\udc93\ud83c\udf38 thank you!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1578743250,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17885321476474605",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "20473062229",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/69227702_451922925414176_6418217574579830784_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=eQ-hNeqVc2UAX_heO-Y&oh=c979a4690f553c0f494aa2ec483c05f5&oe=5EDCF2D3",
+                            "username": "saerahbeast"
+                        },
+                        "text": "Thanks for sharing this <3 How do you choose your playlist?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1579421826,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17908410274400635",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "210727927",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/67841550_2371715916244565_4824580735471976448_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ICIUeEiIxAwAX9TFhfk&oh=160bc5fa1bfdaf16b9f0b8876ba9b00c&oe=5EDC3A1F",
+                            "username": "megggwatkins"
+                        },
+                        "text": "@chloekarnold  this woman is amazing, check out her profile it\u2019s so good",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1579549503,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18122518057058965",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "200205832",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92438063_1101338646896054_2662261389963296768_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=26w-rKQxtfMAX-exY_o&oh=0ebf3cc14289139f1fbe74a1fabe9a4c&oe=5EDB0332",
+                            "username": "raggityyanne"
+                        },
+                        "text": "This was so helpful, thank you for posting! \u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1581875246,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1581875692,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17900485027438792",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@whitgetsit link in bio!",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1581876635,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17845166182970850",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "14194047",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/93348393_848994902236813_5471277216815906816_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=DclSxQwAEFgAX-NUlgI&oh=74bb1f57cbab0e30ee67e98c0eb53218&oe=5EDCEF5C",
+                                            "username": "whitgetsit"
+                                        },
+                                        "text": "@evyan.whitney oops I missed it the first time I linked. Thxxx!!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17896324669443996",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "14194047",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/93348393_848994902236813_5471277216815906816_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=DclSxQwAEFgAX-NUlgI&oh=74bb1f57cbab0e30ee67e98c0eb53218&oe=5EDCEF5C",
+                            "username": "whitgetsit"
+                        },
+                        "text": "@evyan.whitney is there a place to find your playlist still? It\u2019s sooo buttery.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1582136916,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17948266675320480",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1505737063",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/79367477_476575943047535_89526252527943680_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=mOztbufuMUUAX_DPoBg&oh=13ffe1057151843ec271a2bbfc8fdec7&oe=5EDD9841",
+                            "username": "djaidanadege"
+                        },
+                        "text": "I love doing this after an emotionally taxing day at work before and after my shower",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1583821447,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17844267122024053",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "15895261611",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72483905_600785984059663_948768231420592128_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=iCpZ9PrGbkQAX_bvF8U&oh=e8494fc6925ae96cb74d1257b3ae9d0b&oe=5EDDC781",
+                            "username": "gabynighanart"
+                        },
+                        "text": "@makennagumby thinking of trying more dancing instead of sitting meditation!\ud83e\udd8b",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1585376412,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18137062885028073",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1040191295",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/67809757_2349098405138143_5166552632944230400_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=EUn0V-F_Te8AX8sjuLx&oh=b4beac57ec6005eccbc67e60ab980e01&oe=5EDD98A7",
+                            "username": "sophialivetocreate"
+                        },
+                        "text": "I adore this and you - thank you!!\ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFBaVFwRGQwbEpicHFPbG9heS1PQ0JKVTljampBSlh4ZjJGcHR1Uzdzc29GWHNOcDVzMVIwN3VHNklPT3FzV2N3T29IM0hqdW40Zlh0NFRPMDlFZHhmag==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2090264904178147500",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ABcq098bdCKhknjiIDMFJ6ZqsI9rsufun8x9e1Vbm3DhhyWzu/ALgD65qbjUTS81TyCMUVj2A2Rln4BOF/r+HH86KWpVka6YeVx0+YDn/PenCMDIAyBx/wDWrEDySzgJlQx5x2xz9K2dxUEDqe9EghchA5JHH/1qKmt48/hRVJEt6j0XylG49AP8KcEIfLcgjgHtUbcuB/tJ/WrEvQ/h/Ol3KWjXmV4GMRO5SRk4I9O3FFSR9T9T/OiqV+5L3P/Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_owner_to_timeline_media": {
+                "count": 349
+            },
+            "followed_by_viewer": false,
+            "full_name": "Ev\u2019Yan Whitney \u2022 she/they",
+            "has_blocked_viewer": false,
+            "id": "635534",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "evyan.whitney"
+        },
+        "product_type": "igtv",
+        "sensitivity_friction_info": null,
+        "shortcode": "B0CHNsMASCs",
+        "taken_at_timestamp": 1563399600,
+        "thumbnail_src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.280.720.720a/s640x640/66431159_2051694398459349_3982586942490993657_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=hcTskr_Sh-YAX9zQ7rZ&oh=c7f7659b726e6bf25eef0dc75152f9dc&oe=5EB49995",
+        "title": "How to do sensual dance meditation",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYzYwZWE2MGYxM2ZjNGY1NTg4ODJiMGQ4MzAwNzdjMDEyMDkwMjY0OTA0MTc4MTQ3NTAwIn0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 127.833,
+        "video_url": "https://scontent-frt3-1.cdninstagram.com/v/t50.16885-16/10000000_517867268752874_4001457806191218096_n.mp4?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=eKWpZhzq-lkAX_aoTtN&oe=5EB509F0&oh=6167a114d139088066ae2dc8653b3da9",
+        "video_view_count": 45048,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

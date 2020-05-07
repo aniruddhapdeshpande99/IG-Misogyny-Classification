@@ -1,0 +1,874 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.3.2"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Photo by Ev\u2019Yan Whitney \u2022 she/they on August 18, 2019. Image may contain: one or more people and phone",
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 800,
+                "config_width": 640,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/67195853_469651553869094_6612928285405970318_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=ESXsfsuCjEcAX-KNleA&oh=e07c1b0e0072e546eb5a87f257f66b71&oe=5EDADB7A"
+            },
+            {
+                "config_height": 937,
+                "config_width": 750,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/67195853_469651553869094_6612928285405970318_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=ESXsfsuCjEcAX-KNleA&oh=31ec557966be3f236a5e4a235c1bce1b&oe=5EDA4B7A"
+            },
+            {
+                "config_height": 1350,
+                "config_width": 1080,
+                "src": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/67195853_469651553869094_6612928285405970318_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=ESXsfsuCjEcAX-KNleA&oh=c290374faea50aa067dcfd4c3866ed11&oe=5EDAAC9D"
+            }
+        ],
+        "display_url": "https://scontent-frt3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/67195853_469651553869094_6612928285405970318_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=ESXsfsuCjEcAX-KNleA&oh=c290374faea50aa067dcfd4c3866ed11&oe=5EDAAC9D",
+        "edge_media_preview_comment": {
+            "count": 98,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1568645750,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18030855754215096",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2334792578",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/56734955_294583688127002_5219860207949053952_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=cMVmebVI15oAX_EKfay&oh=006d02b009b4954bce7c7e263a7e84ff&oe=5EDAE6D8",
+                            "username": "wellwithbrielle"
+                        },
+                        "text": "You looks good. Thanks for sharing, queen \ud83d\udc95\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1568773444,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17875241971450031",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1474257018",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72089522_982270885466796_2003253938916163584_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ZfAOllx2WjoAX-S-ZaK&oh=60194e329c50ec887e1609eb0c31c4d0&oe=5EDB634B",
+                            "username": "lovejonestie"
+                        },
+                        "text": "Thank you for bearing it all Queen\ud83d\udc8b\ud83d\ude18\ud83d\ude4f\ud83c\udffd\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 6239,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "ever since this WF nonsense, people have been asking me how I\u2019ve been doing. here\u2019s the truth\u2014I\u2019ve woken up anxious nearly every morning since this begun four weeks ago. my system has been stressed to the point where my appetite and other natural rhythms have been off. I haven\u2019t been sleeping well. my depression has reared its ugly head again after months being dormant. in the midst of all of the constant gaslighting and anti-Blackness I\u2019ve endured, it\u2019s been hard for me to trust myself and my experiences. I\u2019ve had trouble focusing on my work and many of my creative projects have been put on hold. I feel like I\u2019ve been existing on an autopilot of waiting for something bad to happen and needing to be ready to fight. finding pleasure and taking care of my basic needs\u2014drinking water, taking my vitamins, moving my body\u2014has been challenging for me to access. my sex drive has been nonexistent, and I\u2019ve had to balance all of this while needing to stay composed and organized\u2014because Black folks aren\u2019t afforded the benefit of the doubt otherwise.\n\nbasically, I\u2019ve been in a traumatized state for the last few weeks.\n\nit was just yesterday that I started to feel the fog lift a little. I was able to be more present with my body and emotions. I was able to access pleasure again. I was able to feel like I could exist beyond the purpose of fighting for my humanity.\n\nI share all of this because it\u2019s very very easy to get caught up in the happenings of a dramatic situation and forget that there are actual people involved who have feelings, responsibilities to their work + families, who are dealing with other things outside of the issue they\u2019re currently highlighting. throughout this entire WF experience, despite having a lot of support, I\u2019ve felt that my pain has been mere entertainment for some of you\u2014which makes sense because we live in a culture that fixates on + profits off of drama (ie: reality TV, gossip blogs). but I encourage you to check in with yourself as you find yourself witnessing another \u201cscandal\u201d and remember that what is \u201cjuicy gossip\u201d for you is actual trauma for the folks going through it. I hope me sharing how this has affected me helps you remember that."
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 98,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1566169537,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17924626684308951",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "11714294930",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/90356511_201449334475924_4981554016249970688_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=WKPL_lfRxjgAX-vSgme&oh=bdff59d9ccf5ee4d996b777f9b4edeaa&oe=5EDA2916",
+                            "username": "nataanii_"
+                        },
+                        "text": "Yes please take care through this nonsense, I am sorry you have to endure this nonsense, it hurts my heart",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566169585,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 29
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1566171472,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 57
+                                        },
+                                        "id": "17875248841429170",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@imanisasa wf / white folks / white fuckery / white fragility \u2014 it\u2019s all applicable. \ud83e\udde1",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1566188827,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "17846816281577641",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2241110",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/82592414_192025188849858_2565312055263363072_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=qp8_6MtOH2kAX-dDDy9&oh=9cfe9d2a04847f6b65b3b1f7b1c2f91c&oe=5EDAC2E1",
+                                            "username": "kalliepalm"
+                                        },
+                                        "text": "@evyan.whitney don\u2019t forget wet farts babe!!!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17884518505398226",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "6535069",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/24839109_130381824304408_7291974348204670976_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=qTRYWfMX3uoAX-tKkS8&oh=78e42bf931397a7548c55a6461f40429&oe=5EDA99F8",
+                            "username": "imanisasa"
+                        },
+                        "text": "A moment: I read WF, even having kept up on the Wild flower situation, as white folks. Because...truthfully, your grace and poise navigating the Wild Flower thing is the very thing most (many, all?) black femmes have to do every single day with my interpreted version of WF. Complete with the love and respect and heartbreak that was part of your WF experience. I appreciate and see your humanity through all of this. Especially BECAUSE of that central your and all of y\u2019all\u2019s experience shedding light for folks on the everyday black femme experience - personally, professionally, collectively. My collective wound has been very tender with the stories y\u2019all shared and my auto-reaction of sadness, anger, and bitter recognition that the same old shit just evolves. I love you. I see you. You deserve to feel the very healing you are bringing about for others.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566169668,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17855771968504117",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "3245500961",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/85219601_2664978697079482_1187540461431029760_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=J6hso6GoyS8AX9MRjDH&oh=98eca44620e45a28581140cdc8614b6c&oe=5EDA2BCB",
+                            "username": "flwrgirl15"
+                        },
+                        "text": "\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566169842,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18008621923246470",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "311012315",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/65674101_2236676539964387_7774771755092017152_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=zsbf_qA-IHEAX_o7UBr&oh=ea1afe9dd3cb455e3ea861e0c96db341&oe=5EDA2DC4",
+                            "username": "poppyminds"
+                        },
+                        "text": "So glad the fog has been lifted slightly\ud83d\udc95 you are amazing",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566169872,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18064009174189594",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "14947029",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/10616771_504372723033217_1019887596_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=N7jY5phWmlMAX_PfYKm&oh=2a2d7dd99c6c2cc1673ce228aabe92cc&oe=5EDB338A",
+                            "username": "tealeigh"
+                        },
+                        "text": "Sending you love. Thank you so much for sharing this. I really hope people hear it.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566170524,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17863044820464482",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "17856716302",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/66092815_487105088787605_2867658030411939840_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=WQvptEgRNEgAX_YM1C7&oh=eb92c5c5c3a6c80952838dc95a444617&oe=5EDD06CF",
+                            "username": "zhendegender"
+                        },
+                        "text": "Thank you for sharing this so honestly and eloquently. We need these reminders x",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566173598,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18073053706114652",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "8458846769",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/79997925_2551809611730991_1962809413005737984_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=awXtRrkUNnMAX8PQokS&oh=89d9f9f353396c70704935f51280e50f&oe=5EDB3E52",
+                            "username": "uglystepfister"
+                        },
+                        "text": "I'm so grateful you shared your experience. Thank you for your invaluable voice and work!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566178874,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18058205086153288",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "7858938628",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92294012_211648423403562_142097240641503232_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=cA3Kt5jUp5kAX_CJnLg&oh=3b48bd1f944f71bbb91dbd30690db325&oe=5EDC3BDE",
+                            "username": "jesscretephoto"
+                        },
+                        "text": "you\u2019re beautiful! thank you for all that you do.\u2728",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566185827,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17882941720397943",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "237419313",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/93758221_243478430359896_1369432300646825984_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=xlqNrelQDRIAX9pdEZy&oh=c76b648c4f21b9bf3bb49f13165f1331&oe=5EDAEF10",
+                            "username": "abaigael_barbara"
+                        },
+                        "text": "I\u2019m glad that you\u2019re starting to feel like yourself again, thank you for your bravery in exposing WF for what they really are, their response article is really despicable and highlights even more how little they care. You are amazing and valid and I\u2019m glad that you are in the world inspiring.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566186816,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17849717233558373",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2311992764",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/12345830_993034070760123_1476298127_a.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=GRwOnqd59cEAX970hJW&oh=8adbb593cd305401a03d672ea61faa6e&oe=5EDD501C",
+                            "username": "ittybittykittywych"
+                        },
+                        "text": "Thank you for this reminder, Ev'Yan. I wish you the direct justice that you deserve and have been demanding from WF. In the mean time we white people following this need to take the whole thing as a cue to keep peeling back the layers of our oppressive bullshit that makes it easy for us to dehumanize you, and black femmes everywhere. So I would wish you a bigger kind of justice too, but that's something to co-create not just wish for.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566187994,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17844205468589335",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "481117615",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/91613557_243090203762206_7524838253699006464_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=C7pf5vkRNLMAX-vnapJ&oh=63edd9ae9f4ddde98b20b8eb4ddc03af&oe=5EDD9C52",
+                            "username": "laura_plusmodel8532"
+                        },
+                        "text": "I am truly sorry you have been through so much trauma and pain. Please understand though that just because some \"white people\" out there are assholes and full of hate doesn't mean that we are all that way. It makes me sick to think that it's 2019 and racism is still even a thing. It breaks my heart to be honest and makes me feel disgusted to even call myself human. There are still a few of us in the world that have respect for others no matter what the color of their skin is and believe in love not hate. I am one of those few people and saddens me deeply that so many of you have only ever had shitty experiences with the \"wf\". I hope things get better for you and that you find comfort in knowing that God has better things in store for you and has your back. I will pray for you that you find peace and understand that not all of us are disrespectful jerks. \ud83d\ude4f\ud83d\ude4f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566216439,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17884796449392825",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "40248406",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72559912_440910633506345_5692441451007311872_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=Fbx7pH1L9-UAX9L0KHG&oh=a03ca343116ba3972ecba78c9ce4b185&oe=5EDC7C35",
+                            "username": "allurexo"
+                        },
+                        "text": "Read the article on medium and I\u2019m sorry you went through this. I can resonated so much with your story. I had people tell me since I\u2019m a woman and a minority that I\u2019m on the bottom of the totem pole being in the industry. Hearing that was devastating. Knowing that woman are pushing through regardless and having their voice heard hits deep. Keep pushing, you have my full support. \u2665\ufe0f\u270a\ud83c\udffc",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566231799,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 3
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17908067602346626",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "175573541",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/90089547_230893724757362_7557242420442693632_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=eHEuYQmcnjMAX8AGW4U&oh=5db59c932b26e729c67b6c5c193ceb79&oe=5EDD2C5B",
+                            "username": "_jillianmc"
+                        },
+                        "text": "I became a new follower when your Medium article was published. Prior to that article, I had been closely following WF and was SO close to purchasing from them. Initially, I was hopeful and confident that they would promptly and proactively come back to take accountability and do whatever it took to rectify their actions as much as possible. As time and their silence continued, my faith in them began to dwindle. Once their incredibly defensive article was posted, I just couldn't maintain my respect for them or their company anymore. They had a chance to be role models for white people, and all people; an opportunity to show what anti-racism and emotional intelligence REALLY looks like. They couldn't show up for that and it breaks my heart that you and the other people they have deeply harmed have been affected this way. I want you to know that you have my attention and I am excited to start exploring the work you do to support you. Sending you so much gratitude and love for all of the bravery and labor that you have put into speaking out about these events and your emotional experience. You SO deserve to heal. \ud83d\udc95",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566232190,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17857801303499827",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1140590253",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/71149367_2413106128810055_4296084343979245568_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=xp7o1pXfL9MAX_Baj2Y&oh=37f4ea8c3a5efc272c99feb11d42b9f1&oe=5EDC0ACB",
+                            "username": "flowers.onthefloor"
+                        },
+                        "text": "Thank you for your transparency. Sending love and support your way",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566239693,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17869094578450488",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2076454448",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/92075500_224080562031098_5930493681290182656_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=FfjqcmLouv4AX9Itcp3&oh=68da9a5b4075b88609a96b0619d4b537&oe=5EDB1D42",
+                            "username": "witchoneagain"
+                        },
+                        "text": "It is unacceptable that you work TWICE as hard as us white people to get half the respect and follows, and then those follows dwindle when some yt people can't handle seeing antiblackness and white priv highlighted on their feed. To come at a scandal holistically as an observer is aloen to most Americans, especially those who have never dealt with being a minority, or a person in poverty, trauma, or being knowingly gaslit. Hope today is a little better, and as someone trying to work against misinformation and their own privilege and whiteness, thank you again for literally being amazing, a role model, and an educator. Teachers in every industry give a lot and get very few authentic thank yous, so thank you for being strong, unapologetic, and absolutely kickass. \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566257309,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17913638932332006",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "15295874",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/91981235_650609882455274_9152002002656428032_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=Byc7-clKCeEAX_w9T1w&oh=d20c96ef773e8ce23edea7d91320a6e0&oe=5EDCB57E",
+                            "username": "gennaweinstein"
+                        },
+                        "text": "It's says refreshing to read your insight because it's so eloquently put. Don't forget about your self care :)",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566407612,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 4
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1566407954,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "17850948271547094",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "635534",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+                                            "username": "evyan.whitney"
+                                        },
+                                        "text": "@matzah_brawls thank you for wanting to support me. venmo is EvYanWhitney, paypal is /sexloveliberation \ud83e\udde1",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1566408014,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18093302851048159",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "11821718",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/54513766_589989991474717_1440749403668217856_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=QR_pw6c34psAX9Rxigk&oh=d994ab28a1e1aad5a47d5d592d426d86&oe=5EDC1739",
+                                            "username": "matzah_brawls"
+                                        },
+                                        "text": "@evyan.whitney thank you!!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17850106063543345",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "11821718",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/54513766_589989991474717_1440749403668217856_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=QR_pw6c34psAX9Rxigk&oh=d994ab28a1e1aad5a47d5d592d426d86&oe=5EDC1739",
+                            "username": "matzah_brawls"
+                        },
+                        "text": "Hi! Do you have a Venmo/paypal? I don\u2019t have much but I\u2019d love to support your work. Thank you for all you\u2019re doing.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1566474185,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17859513265493848",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "3942887848",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87226448_509302269960696_6059545568655441920_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=OtCMWijztEwAX-n9jz7&oh=c284e27e5de19ea147a67f91e01dc9e9&oe=5EDB5752",
+                            "username": "judeswear"
+                        },
+                        "text": "\u2665\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567531198,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17892267712388997",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "3257963711",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/54247794_990004341202661_7023399301472583680_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ymXjSvJO34cAX--ATjL&oh=a76cd7964cc46082375c448198954bb4&oe=5EDD7F89",
+                            "username": "the.vshop"
+                        },
+                        "text": "\ud83d\udc95\ud83d\udc95 \ud83c\udf31",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567562959,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18027678961209314",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "6220418958",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/79751141_2554743694801846_1083619681845116928_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=YssIKLwrqLwAX-cM2L3&oh=6614e162ba039a5cf542055e773253a2&oe=5EDA657C",
+                            "username": "dark_little_vegan"
+                        },
+                        "text": "I used to follow Wild Flower Sex, but don't want to support them anymore. Ladies, do y'all know any other reputable websites that sell toys??? \ud83d\ude48 ...I seriously DO NOT want to buy from Wild Flower Sex. Ever. \ud83d\udd95",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567625889,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17992001929266099",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "219942276",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/56286850_2223865314323932_5100028726310076416_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=Xhf1eSB9KyoAX-FIVRJ&oh=6b94e1654647f509790362fce9451537&oe=5EDB9BCA",
+                            "username": "willdavwill"
+                        },
+                        "text": "Stunning",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1567765392,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17986875466300791",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "223800616",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/51045160_826445777710468_6062117369302482944_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=qfEZ1ERTZwMAX-o7BRE&oh=9211d0e5cb839345a41d2558ec6e8a94&oe=5EDDB8A8",
+                            "username": "rawksee"
+                        },
+                        "text": "Been eyeing this body chain \u2728",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1568645750,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18030855754215096",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2334792578",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/56734955_294583688127002_5219860207949053952_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=cMVmebVI15oAX_EKfay&oh=006d02b009b4954bce7c7e263a7e84ff&oe=5EDAE6D8",
+                            "username": "wellwithbrielle"
+                        },
+                        "text": "You looks good. Thanks for sharing, queen \ud83d\udc95\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1568773444,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17875241971450031",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1474257018",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/72089522_982270885466796_2003253938916163584_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ZfAOllx2WjoAX-S-ZaK&oh=60194e329c50ec887e1609eb0c31c4d0&oe=5EDB634B",
+                            "username": "lovejonestie"
+                        },
+                        "text": "Thank you for bearing it all Queen\ud83d\udc8b\ud83d\ude18\ud83d\ude4f\ud83c\udffd\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFCMjJKbWZ5Nlk0Yk5naHNabzZmS3BPc3FQT1RJandXcFRZU3d4aFhxc1MydEpMRFlaUndRSjJTdVNiVlNXcERUOHctMFJidEM1R2xBSTdDNFFlQndWVA==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2113375481847065317",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ACEq0pPvfhSNcxQD94wU4zjufoKdL1B9jWXtE7MeCwGVz2Ppn9KT0KWpetL+O7JVQVZecHuPUY/lVw1gWeIrgFgEwGByDn2xj+tbwcMMryD3FJO4NWCilzRTERSdB+NYwwMbfvDJP1Bx/XitmToKw7mJ1kJXofT0/wAc0p+RVN9yUTBcP0LDkn0rTsl2wrn+LLfma58DccemB+ZrqsBeB0HApQW7Km1okJRSUVoZEDnIrMupsNs/vcD6/wD16dqhIg4/vD+tZ9ty8Oeef6mlLUuOhZhhIk2N1JUke2a6A1zTMfMc57j+dRySuAcM3buacFoTN6nT0VyvnSf3m/M0VdiLn//Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_owner_to_timeline_media": {
+                "count": 349
+            },
+            "followed_by_viewer": false,
+            "full_name": "Ev\u2019Yan Whitney \u2022 she/they",
+            "has_blocked_viewer": false,
+            "id": "635534",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s150x150/87229638_727890170949473_4781896727714070528_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=-iEfle6avA8AX-ERoG8&oh=a23d93656d406b25b7ba97bc24d15899&oe=5EDCEBE5",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "evyan.whitney"
+        },
+        "sensitivity_friction_info": null,
+        "shortcode": "B1UN824g6rl",
+        "taken_at_timestamp": 1566154011,
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMzVjNmRiMTBkNTViNDM2YWIzYTJjYTZkOWZkYTIyMGQyMTEzMzc1NDgxODQ3MDY1MzE3In0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}
