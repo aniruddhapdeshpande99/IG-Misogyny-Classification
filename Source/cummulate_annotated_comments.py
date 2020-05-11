@@ -22,7 +22,8 @@ def userwise_extract_comments(username):
     
     return pd.concat(userwise_annotated_comments)
 
-#Main function
+#Main function - If you choose to classify on your own Annotated Comments, run this code to create 
+#a training dataset using your own annotated dataset. Follow the annotation schema as in documentation
 def main():
     
     final_dataframes = []

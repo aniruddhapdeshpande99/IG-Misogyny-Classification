@@ -1,0 +1,29 @@
+Following is the index for the annotation
+
+0 - Not Sexist (Can be left blank in the Excel Sheet too)
+1 - Slut Shaming
+2 - Body Shaming
+3 - Sexual harassment
+4 - Violent threats
+5 - Discredit
+6 - Dominance
+7 - Stereotype
+8 - Objectification
+9 - Racist Comment
+10 - Age Discrimination
+
+Note a comment can belong to multiple classes, annotate those with commas.
+
+Excel Sheet Examples:
+
+    Non-Sexist Class Example:
+    Username        Comment                                                     Class
+    kinzieferguson  I'm so into this. You are building an empire, did you know? 0
+
+    Singular Class Example:
+    Username        Comment                                                     Class
+    kenechimarie    Stupidity 🤦‍♂️                                                5
+
+    Multiple Classes Example:
+    Username        Comment                                                     Class
+    london_lucille  Brb.... gone to masturbate                                  3,8
