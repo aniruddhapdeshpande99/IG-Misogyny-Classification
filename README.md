@@ -70,6 +70,8 @@ wheel                         0.34.2
 
 * The Folder - "Data/Photos" only has photos for one IG user. Please download the rest using this [link](https://drive.google.com/drive/folders/1CL2ddV72vtr8BGam2fmc0WAKow8onqn3?usp=sharing)
 
+* Download and place the Comment Classifier model in "Models" directory using this [link](https://drive.google.com/drive/folders/1set2k0tF2Ev5WYU8rOs2Zq9aBquPdADr?usp=sharing)
+
 ## Authors
 
 * **Aniruddha Deshpande** [Github Profile](https://github.com/aniruddhapdeshpande99)
