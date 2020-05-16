@@ -1,0 +1,8 @@
+This dataset can't be made publicly available. Please contact the authors of the paper
+"Multi-label Categorization of Accounts of Sexism using a Neural Framework" for steps to retrieve the dataset.
+The Link for the paper is as follows:
+https://arxiv.org/abs/1910.04602
+
+After following those steps, you should have a "data.tsv" file. Place it in this folder to train your own model. 
+
+Or use the trained model from this repository.
