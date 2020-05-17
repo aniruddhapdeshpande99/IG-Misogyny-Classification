@@ -77,7 +77,7 @@ def userwise_classify(username, model):
 #funtion for all users
 def main():
 
-    classifier_model = fasttext.load_model("../../Automatic-Sexism/model_comments_classifier.bin")
+    classifier_model = fasttext.load_model("../Models/model_comments_classifier.bin")
 
     with open('../Data/usernames.txt') as f:
         usernames = f.readlines()
