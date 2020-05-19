@@ -91,7 +91,7 @@ def main():
 
     usernames = [x.strip() for x in usernames]
 
-    for username in usernames[:1]:
+    for username in usernames:
         img_features_with_bmi = add_bmi(username,model)
         img_features_with_bmi.to_excel("../Data/ImagesFeatures/" + username + "_bmi.xlsx", index = False)
         os.remove("../Data/ImagesFeatures/" + username + ".xlsx")

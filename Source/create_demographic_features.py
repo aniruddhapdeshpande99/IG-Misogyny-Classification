@@ -90,7 +90,7 @@ def main():
 
     usernames = [x.strip() for x in usernames]
 
-    for username in usernames[:1]:
+    for username in usernames:
         save_img_feats_demographics(username)
         print("Demographic Features for %s created. Image Features Excel file created." %(username))
         print("\n\n\n")
