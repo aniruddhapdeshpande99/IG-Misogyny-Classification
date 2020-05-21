@@ -8,6 +8,10 @@ import random
 comment_label_dict = {} 
 emotion_label_dict = {}
 race_label_dict = {}
+clothing_label_dict = {}
+
+with open("../Data/CorrelationData/clothing_label_dict.json", "r") as f:
+    clothing_label_dict = json.load(f)
 
 #Returns top three frequently occuring sexist comment classes for a given post
 def get_top_three_comment_labels(username, shortcode):
@@ -60,6 +64,7 @@ def get_X_Y(username):
         race = row['Ethnicity']
         bmi = row['BMI']
         emotion = row['Emotion']
+        clothing = row['Clothing']
         shortcode = row['shortcode']
 
         #To avoid errors that come up due to errors in downloading the some comment files
@@ -72,7 +77,7 @@ def get_X_Y(username):
             if emotion not in emotion_label_dict.keys():
                 emotion_label_dict[emotion] = ""
         
-            X_val = [age, race, emotion, bmi]
+            X_val = [age, race, emotion, bmi, clothing]
             Y_val = get_top_three_comment_labels(username, shortcode)
 
             user_correlation_data.append({"x": X_val, "y": Y_val})
@@ -118,7 +123,13 @@ def main():
     for value in correlation_data:
         value['x'][1] = race_label_dict[value['x'][1]]
         value['x'][2] = emotion_label_dict[value['x'][2]]
-        
+        clothings = value['x'][4].split(",")
+
+        for i in range(0,len(clothings)):
+            clothings[i] = clothing_label_dict[clothings[i]]
+
+        value['x'][4] = clothings
+                
         for index in range(0,len(value['y'])):
             value['y'][index] = comment_label_dict[value['y'][index]]
 
