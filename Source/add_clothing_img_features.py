@@ -18,7 +18,7 @@ inv_clothing_index = {v: k for k, v in clothing_index.items()}
 #Retrieves Pretrained model to predict clothing classes
 def get_trained_model():
     # load the model we saved
-    model = load_model('../Models/model.h5')
+    model = load_model('../Models/clothing_model.h5')
     opt = SGD(lr=0.0001, momentum=0.9, nesterov=True)
     model.compile(optimizer=opt,
                     loss={'img': 'categorical_crossentropy',

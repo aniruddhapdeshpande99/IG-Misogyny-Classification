@@ -13,14 +13,27 @@ clothing_label_dict = {}
 with open("../Data/CorrelationData/clothing_label_dict.json", "r") as f:
     clothing_label_dict = json.load(f)
 
-#Returns top three frequently occuring sexist comment classes for a given post
-def get_top_three_comment_labels(username, shortcode):
+with open("../Data/CorrelationData/comment_label_dict.json", "r") as f:
+    comment_label_dict = json.load(f)
+
+with open("../Data/CorrelationData/race_label_dict.json", "r") as f:
+    race_label_dict = json.load(f)
+
+with open("../Data/CorrelationData/emotion_label_dict.json", "r") as f:
+    emotion_label_dict = json.load(f)
+
+#Returns a weighted vector scaled to 1. Each value in the vector is a weighted value based on the 
+#frequency of comments for a sexist label. The order is based on comment label dict
+def return_comment_vector(username, shortcode):
     parent_dir = "../Data/ClassifiedComments/"
     comment_dir = os.path.join(parent_dir, username)
     excel_file = os.path.join(comment_dir, shortcode + ".xlsx")
 
     comments_df = pd.read_excel(excel_file)
     label_freq_dict = {}
+
+    for label in comment_label_dict.keys():
+        label_freq_dict[label] = 0
 
     for index, row in comments_df.iterrows():    
         #Some Comments weren't classified (due to an unknown error). These are ignored.
@@ -29,25 +42,19 @@ def get_top_three_comment_labels(username, shortcode):
             for label in labels:
                 #Ignoring Non-Sexist Labels
                 if label != "__label__Non-Sexist":
-                    #Adding the label to the global dict of index dictionary
-                    if label not in comment_label_dict.keys():
-                        comment_label_dict[label] = ""
-                
-                    #Counting for each type of Sexist label for a given post 
-                    if label not in label_freq_dict.keys():
-                        label_freq_dict[label] = 0
-                    else:
-                        label_freq_dict[label] += 1
+                    label_freq_dict[label] += 1
 
-    # Finding top 3 frequently Sexist Labels 
-    top_freq_labels = Counter(label_freq_dict).most_common(3)
+    label_vector = []
+    
+    total_sexist_freq = 0 
+    for label in label_freq_dict.keys():
+        total_sexist_freq += label_freq_dict[label]
+        label_vector.append(float(label_freq_dict[label]))
+    
+    if total_sexist_freq != 0:
+        label_vector[:] = [x / total_sexist_freq for x in label_vector]
 
-    #Returning the labels without frequency values
-    top_labels = []
-    for value in top_freq_labels:
-        top_labels.append(value[0])
-
-    return top_labels
+    return label_vector
 
 #Returns a list of dictionaries containing X values (Image Features) and Y values (Top 3 frequently occuring sexist comment labels)
 def get_X_Y(username):
@@ -69,40 +76,12 @@ def get_X_Y(username):
 
         #To avoid errors that come up due to errors in downloading the some comment files
         if os.path.isfile("../Data/ClassifiedComments/" + username + "/" + shortcode + ".xlsx"):
-            #Adding values to global dict of race labels
-            if race not in race_label_dict.keys():
-                race_label_dict[race] = ""
-        
-            #Adding values to global dict of emotion labels
-            if emotion not in emotion_label_dict.keys():
-                emotion_label_dict[emotion] = ""
-        
             X_val = [age, race, emotion, bmi, clothing]
-            Y_val = get_top_three_comment_labels(username, shortcode)
+            Y_val = return_comment_vector(username, shortcode)
 
             user_correlation_data.append({"x": X_val, "y": Y_val})
 
     return user_correlation_data
-
-#Adds numeric values to the above global index dicts
-def create_index():
-    count = 0
-    for key in emotion_label_dict.keys():
-        emotion_label_dict[key] = count
-        count += 1
-    
-    count = 0
-    for key in race_label_dict.keys():
-        race_label_dict[key] = count
-        count += 1
-    
-    count = 0
-    for key in comment_label_dict.keys():
-        comment_label_dict[key] = count
-        count += 1
-    
-    return
-
 
 #Main function
 def main(): 
@@ -115,11 +94,9 @@ def main():
     for username in usernames:
         print("Loading Data files for user %s" %(username))
         correlation_data.extend(get_X_Y(username))
-    
-    #Creating the final index dictionary for the global dict values
-    create_index()
 
-    #Assigning the numerical values to the classes based on the global dict values
+    #Assigning the numerical values to the classes based on the global dict values 
+    # [need not be done for comments as it is a full sized vector with weights]
     for value in correlation_data:
         value['x'][1] = race_label_dict[value['x'][1]]
         value['x'][2] = emotion_label_dict[value['x'][2]]
@@ -130,20 +107,8 @@ def main():
 
         value['x'][4] = clothings
                 
-        for index in range(0,len(value['y'])):
-            value['y'][index] = comment_label_dict[value['y'][index]]
-
     #Shuffling the data
     random.shuffle(correlation_data)
-    #Saving all the data
-    with open("../Data/CorrelationData/race_label_dict.json", "w") as f:
-        json.dump(race_label_dict, f)
-
-    with open("../Data/CorrelationData/emotion_label_dict.json", "w") as f:
-        json.dump(emotion_label_dict, f)
-
-    with open("../Data/CorrelationData/comment_label_dict.json", "w") as f:
-        json.dump(comment_label_dict, f)
     
     with open("../Data/CorrelationData/data.json", "w") as f:
         json.dump(correlation_data, f)
