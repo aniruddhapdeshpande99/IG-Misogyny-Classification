@@ -6,12 +6,14 @@ backports.weakref==1.0.post1
 cycler==0.10.0
 dlib==19.16.0
 enum34==1.1.6
+et-xmlfile==1.0.1
 funcsigs==1.0.2
 future==0.17.1
 futures==3.2.0
 gast==0.2.2
 grpcio==1.18.0
 h5py==2.9.0
+jdcal==1.4.1
 Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
@@ -21,6 +23,7 @@ matplotlib==2.2.3
 mock==2.0.0
 numpy==1.16.1
 opencv-python==4.0.0.21
+openpyxl==2.6.4
 pandas==0.24.1
 pbr==5.1.2
 Pillow==5.4.1
@@ -37,3 +40,4 @@ tensorflow==1.12.0
 termcolor==1.1.0
 tqdm==4.30.0
 Werkzeug==0.14.1
+xlrd==1.2.0
